@@ -8,14 +8,7 @@ from pydantic import BaseModel, Field
 ╚════════════════════╝
 """
 
-class Name(BaseModel):
-    
-    english: str = Field(..., alias="english")
-    japanese: str = Field(..., alias="japanese")
-    chinese: str = Field(..., alias="chinese")
-    french: str = Field(..., alias="french")
-
-class BaseStats(BaseModel):
+class Statistic(BaseModel):
     
     hp: int = Field(..., alias="HP")
     attack: int = Field(..., alias="Attack")
@@ -27,10 +20,13 @@ class BaseStats(BaseModel):
 class Pokemon(BaseModel):
     
     _id: str = Field(default_factory=uuid.uuid4, alias="_id")
-    id: int = Field(...)
-    name: Name
+    number: int = Field(...)
+    name: str = Field(...)
+    size: str = Field(...)
+    weight: str = Field(...)
+    statistic: Statistic = Field(...)
     type: list = Field(...)
-    base: BaseStats
+    learnset: list = Field(...)
     
     class Config:
         
@@ -39,73 +35,102 @@ class Pokemon(BaseModel):
             "example": {
                 "_id": "653a54a936887f3385e5b086",
                 "id": 1,
-                "name": {
-                    "english": "Bulbasaur",
-                    "japanese": "フシギダネ",
-                    "chinese": "妙蛙种子",
-                    "french": "Bulbizarre"
-                },
-                "type": [
-                    "Grass",
-                    "Poison"
-                ],
-                "base": {
+                "name": "Bulbizarre",
+                "size": "0.7 m",
+                "weight": "6.9 kg",
+                "statistic": {
                     "hp": 45,
                     "attack": 49,
                     "defense": 49,
                     "spAttack": 65,
                     "spDefense": 65,
                     "speed": 45
-                }
+                },
+                "type": [
+                    "Grass",
+                    "Poison"
+                ],
+                "learnset": [
+                    "Charge",
+                    "Rugissement",
+                    "Fouet Lianes",
+                    "Croissance",
+                    "Vampigraine",
+                    "Tranch'Herbe",
+                    "Poudre Dodo",
+                    "Poudre Toxik",
+                    "Canon Graine",
+                    "Bélier",
+                    "Doux Parfum",
+                    "Synthèse",
+                    "Soucigraine",
+                    "Damoclès",
+                    "Lance-Soleil"
+                ]
             }
         }
 
 class PokemonUpdate(BaseModel):
         
-    id: Optional[int]
-    name: Optional[Name]
+    number: int
+    name: str
+    size: Optional[str]
+    weight: Optional[str]
+    statistic: Optional[Statistic]
     type: Optional[list]
-    base: Optional[BaseStats]
+    learnset: Optional[list]
     
     class Config:
         
         schema_extra = {
             "example": {
                 "id": 1,
-                "name": {
-                    "english": "Bulbasaur",
-                    "japanese": "フシギダネ",
-                    "chinese": "妙蛙种子",
-                    "french": "Bulbizarre"
-                },
-                "type": [
-                    "Grass",
-                    "Poison"
-                ],
-                "base": {
+                "name": "Bulbizarre",
+                "size": "0.7 m",
+                "weight": "6.9 kg",
+                "statistic": {
                     "hp": 45,
                     "attack": 49,
                     "defense": 49,
                     "spAttack": 65,
                     "spDefense": 65,
                     "speed": 45
-                }
+                },
+                "type": [
+                    "Grass",
+                    "Poison"
+                ],
+                "learnset": [
+                    "Charge",
+                    "Rugissement",
+                    "Fouet Lianes",
+                    "Croissance",
+                    "Vampigraine",
+                    "Tranch'Herbe",
+                    "Poudre Dodo",
+                    "Poudre Toxik",
+                    "Canon Graine",
+                    "Bélier",
+                    "Doux Parfum",
+                    "Synthèse",
+                    "Soucigraine",
+                    "Damoclès",
+                    "Lance-Soleil"
+                ]
             }
         }
         
         
 """   
-╔══════════════════╗
-║ Collection Types ║
-╚══════════════════╝
+╔═════════════════╗
+║ Collection Type ║
+╚═════════════════╝
 """
 
 class Types(BaseModel):
     
     _id: str = Field(default_factory=uuid.uuid4, alias="_id")
-    english: str = Field(..., alias="english")
-    chinese: str = Field(..., alias="chinese")
-    japanese: str = Field(..., alias="japanese")
+    name: str = Field(...)
 
     class Config:
         
@@ -113,47 +138,38 @@ class Types(BaseModel):
         schema_extra = {
             "example": {
                 "_id": "653a556336887f3385e5b998",
-                "english": "Normal",
-                "chinese": "一般",
-                "japanese": "ノーマル"
+                "name": "Normal"
             }
         }
 
 class TypesUpdate(BaseModel):
     
-    english: Optional[str]
-    chinese: Optional[str]
-    japanese: Optional[str]
+    name : str
     
     class Config:
         
         schema_extra = {
             "example": {
-                "english": "Normal",
-                "chinese": "一般",
-                "japanese": "ノーマル"
+                "name": "Normal"
             }
         }
         
 
 """   
-╔══════════════════╗
-║ Collection Moves ║
-╚══════════════════╝
+╔═════════════════════╗
+║ Collection learnset ║
+╚═════════════════════╝
 """
 
-class Moves(BaseModel):
+class Learnset(BaseModel):
     
     _id: str = Field(default_factory=uuid.uuid4, alias="_id")
-    accuracy: int = Field(..., alias="accuracy")
-    category: str = Field(..., alias="category")
-    cname: str = Field(..., alias="cname")
-    ename: str = Field(..., alias="ename")
-    id: int = Field(..., alias="id")
-    jname: str = Field(..., alias="jname")
-    power: int = Field(..., alias="power")
-    pp: int = Field(..., alias="pp")
-    type: str = Field(..., alias="type")
+    name: str = Field(...)
+    description: str = Field(...)
+    power: int = Field(...)
+    precision: int = Field(...)
+    pp: int = Field(...)
+    type: str = Field(...)
 
     class Config:
         
@@ -161,27 +177,21 @@ class Moves(BaseModel):
         schema_extra = {
             "example": {
                 "_id": "653a554236887f3385e5b733",
-                "accuracy": 100,
-                "category": "物理",
-                "cname": "物理",
-                "ename": "Pound",
-                "id": 1,
-                "jname": "はたく",
-                "power": 40,
-                "pp": 35,
+                "name": "Abîme",
+                "description": "Peut mettre K.O. en un coup. Sans effet sur les Pokémon Vol.",
+                "power": 0,
+                "precision": 30,
+                "pp": 5,
                 "type": "Normal"
             }
         }
 
-class MovesUpdate(BaseModel):
+class LearnsetUpdate(BaseModel):
     
-    accuracy: Optional[int]
-    category: Optional[str]
-    cname: Optional[str]
-    ename: Optional[str]
-    id: Optional[int]
-    jname: Optional[str]
+    name: str
+    description: Optional[str]
     power: Optional[int]
+    precision: Optional[int]
     pp: Optional[int]
     type: Optional[str]
     
@@ -189,62 +199,11 @@ class MovesUpdate(BaseModel):
         
         schema_extra = {
             "example": {
-                "accuracy": 100,
-                "category": "物理",
-                "cname": "物理",
-                "ename": "Pound",
-                "id": 1,
-                "jname": "はたく",
-                "power": 40,
-                "pp": 35,
+                "name": "Abîme",
+                "description": "Peut mettre K.O. en un coup. Sans effet sur les Pokémon Vol.",
+                "power": 0,
+                "precision": 30,
+                "pp": 5,
                 "type": "Normal"
-            }
-        }
-    
-
-"""   
-╔══════════════════╗
-║ Collection Items ║
-╚══════════════════╝
-"""
-
-class Items(BaseModel):
-    
-    _id: str = Field(default_factory=uuid.uuid4, alias="_id")
-    id: int = Field(..., alias="id")
-    name: Name
-    
-    class Config:
-        
-        allow_population_by_field_name = True
-        schema_extra = {
-            "example": {
-                "_id": "653a554236887f3385e5b733",
-                "id": 1,
-                "name": {
-                    "english": "Master Ball",
-                    "japanese": "マスターボール",
-                    "chinese": "大师球",
-                    "french": "Master Ball"
-                }
-            }
-        }
-        
-class ItemsUpdate(BaseModel):
-    
-    id: Optional[int]
-    name: Optional[Name]
-    
-    class Config:
-        
-        schema_extra = {
-            "example": {
-                "id": 1,
-                "name": {
-                    "english": "Master Ball",
-                    "japanese": "マスターボール",
-                    "chinese": "大师球",
-                    "french": "Master Ball"
-                }
             }
         }

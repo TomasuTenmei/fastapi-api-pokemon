@@ -1,0 +1,1266 @@
+[
+    {
+        "name": "Abîme",
+        "description": "Peut mettre K.O. en un coup. Sans effet sur les Pokémon Vol.",
+        "power": 0,
+        "precision": 30,
+        "pp": 5,
+        "type": "Normal"
+    },
+    {
+        "name": "Acid'Armure",
+        "description": "Augmente beaucoup la Défense.",
+        "power": 0,
+        "precision": 0,
+        "pp": 40,
+        "type": "Poison"
+    },
+    {
+        "name": "Acide",
+        "description": "Une chance sur trois d'affaiblir la Défense de l'adversaire.",
+        "power": 40,
+        "precision": 100,
+        "pp": 30,
+        "type": "Poison"
+    },
+    {
+        "name": "Adaptation",
+        "description": "Le Pokémon qui lance l'attaque prend le type du Pokémon adverse.",
+        "power": 0,
+        "precision": 0,
+        "pp": 40,
+        "type": "Normal"
+    },
+    {
+        "name": "Affûtage",
+        "description": "Augmente l'Attaque.",
+        "power": 0,
+        "precision": 0,
+        "pp": 30,
+        "type": "Normal"
+    },
+    {
+        "name": "Amnésie",
+        "description": "Augmente le Spécial et la Défense face aux attaques spéciales.",
+        "power": 0,
+        "precision": 0,
+        "pp": 20,
+        "type": "Psy"
+    },
+    {
+        "name": "Armure",
+        "description": "Augmente la Défense.",
+        "power": 0,
+        "precision": 0,
+        "pp": 30,
+        "type": "Normal"
+    },
+    {
+        "name": "Balayage",
+        "description": "Une chance sur trois d'apeurer l'adversaire.",
+        "power": 0,
+        "precision": 90,
+        "pp": 20,
+        "type": "Combat"
+    },
+    {
+        "name": "Bec Vrille",
+        "description": "-",
+        "power": 80,
+        "precision": 100,
+        "pp": 10,
+        "type": "Normal"
+    },
+    {
+        "name": "Bélier",
+        "description": "Un quart des dégâts est subi par l'attaquant.",
+        "power": 90,
+        "precision": 85,
+        "pp": 20,
+        "type": "Normal"
+    },
+    {
+        "name": "Berceuse",
+        "description": "Peut endormir l'adversaire.",
+        "power": 0,
+        "precision": 0,
+        "pp": 15,
+        "type": "Normal"
+    },
+    {
+        "name": "Blizzard",
+        "description": "Une chance sur dix de geler l'adversaire.",
+        "power": 120,
+        "precision": 90,
+        "pp": 5,
+        "type": "Glace"
+    },
+    {
+        "name": "Bomb'Œuf",
+        "description": "-",
+        "power": 100,
+        "precision": 75,
+        "pp": 10,
+        "type": "Normal"
+    },
+    {
+        "name": "Bouclier",
+        "description": "La Défense est considérablement augmentée.",
+        "power": 0,
+        "precision": 0,
+        "pp": 30,
+        "type": "Psy"
+    },
+    {
+        "name": "Boul'Armure",
+        "description": "Augmente la Défense.",
+        "power": 0,
+        "precision": 0,
+        "pp": 20,
+        "type": "Normal"
+    },
+    {
+        "name": "Brouillard",
+        "description": "Réduit la Précision de l'adversaire.",
+        "power": 0,
+        "precision": 0,
+        "pp": 20,
+        "type": "Normal"
+    },
+    {
+        "name": "Brume",
+        "description": "Protège des changements de statut.",
+        "power": 0,
+        "precision": 0,
+        "pp": 30,
+        "type": "Glace"
+    },
+    {
+        "name": "Buée Noire",
+        "description": "Annule tout changement de statut des deux Pokémon en combat.",
+        "power": 0,
+        "precision": 0,
+        "pp": 30,
+        "type": "Poison"
+    },
+    {
+        "name": "Bulles d'O",
+        "description": "Une chance sur trois de réduire la Vitesse de l'adversaire.",
+        "power": 65,
+        "precision": 100,
+        "pp": 20,
+        "type": "Eau"
+    },
+    {
+        "name": "Cage Éclair",
+        "description": "Paralyse l'adversaire.",
+        "power": 0,
+        "precision": 0,
+        "pp": 20,
+        "type": "Électrik"
+    },
+    {
+        "name": "Cascade",
+        "description": "-",
+        "power": 80,
+        "precision": 100,
+        "pp": 15,
+        "type": "Eau"
+    },
+    {
+        "name": "Charge",
+        "description": "-",
+        "power": 35,
+        "precision": 85,
+        "pp": 35,
+        "type": "Normal"
+    },
+    {
+        "name": "Choc Mental",
+        "description": "Une chance sur dix de rendre confus l'adversaire.",
+        "power": 50,
+        "precision": 100,
+        "pp": 25,
+        "type": "Psy"
+    },
+    {
+        "name": "Claquoir",
+        "description": "L'adversaire est immobilisé pendant deux à cinq tours.",
+        "power": 35,
+        "precision": 75,
+        "pp": 10,
+        "type": "Normal"
+    },
+    {
+        "name": "Clonage",
+        "description": "Un quart des PV de l'attaquant est sacrifié pour créer un clone qui encaissera les dommages.",
+        "power": 0,
+        "precision": 0,
+        "pp": 10,
+        "type": "Normal"
+    },
+    {
+        "name": "Combo-Griffe",
+        "description": "-",
+        "power": 20,
+        "precision": 80,
+        "pp": 15,
+        "type": "Normal"
+    },
+    {
+        "name": "Constriction",
+        "description": "Une chance sur trois de réduire la Vitesse de l'adversaire.",
+        "power": 10,
+        "precision": 100,
+        "pp": 35,
+        "type": "Normal"
+    },
+    {
+        "name": "Copie",
+        "description": "Copie une technique de l'adversaire pour le combat.",
+        "power": 0,
+        "precision": 0,
+        "pp": 10,
+        "type": "Normal"
+    },
+    {
+        "name": "Coud'Boule",
+        "description": "Une chance sur trois d'apeurer l'adversaire.",
+        "power": 70,
+        "precision": 100,
+        "pp": 15,
+        "type": "Normal"
+    },
+    {
+        "name": "Coud'Krâne",
+        "description": "-",
+        "power": 100,
+        "precision": 100,
+        "pp": 15,
+        "type": "Normal"
+    },
+    {
+        "name": "Coupe",
+        "description": "Coupe les buissons.",
+        "power": 50,
+        "precision": 95,
+        "pp": 30,
+        "type": "Normal"
+    },
+    {
+        "name": "Coupe-Vent",
+        "description": "-",
+        "power": 80,
+        "precision": 75,
+        "pp": 10,
+        "type": "Normal"
+    },
+    {
+        "name": "Croc de Mort",
+        "description": "Une chance sur dix d'apeurer l'adversaire.",
+        "power": 80,
+        "precision": 70,
+        "pp": 15,
+        "type": "Ténèbres"
+    },
+    {
+        "name": "Croc Fatal",
+        "description": "Les PV de l'adversaire touché sont divisés par deux.",
+        "power": 90,
+        "precision": 10,
+        "pp": 10,
+        "type": "Normal"
+    },
+    {
+        "name": "Croissance",
+        "description": "Augmente le Spécial.",
+        "power": 0,
+        "precision": 0,
+        "pp": 40,
+        "type": "Normal"
+    },
+    {
+        "name": "Cru-Aile",
+        "description": "-",
+        "power": 35,
+        "precision": 100,
+        "pp": 35,
+        "type": "Vol"
+    },
+    {
+        "name": "Cyclone",
+        "description": "Peut éjecter l'adversaire du combat.",
+        "power": 85,
+        "precision": 20,
+        "pp": 20,
+        "type": "Normal"
+    },
+    {
+        "name": "Damoclès",
+        "description": "Un quart des dégâts est subi par l'attaquant.",
+        "power": 15,
+        "precision": 100,
+        "pp": 15,
+        "type": "Normal"
+    },
+    {
+        "name": "Danse-Flamme",
+        "description": "Dure deux à cinq tours.",
+        "power": 15,
+        "precision": 70,
+        "pp": 15,
+        "type": "Feu"
+    },
+    {
+        "name": "Danse-Fleur",
+        "description": "-",
+        "power": 70,
+        "precision": 100,
+        "pp": 20,
+        "type": "Plante"
+    },
+    {
+        "name": "Danse-Lames",
+        "description": "Augmente l'Attaque.",
+        "power": 0,
+        "precision": 0,
+        "pp": 30,
+        "type": "Normal"
+    },
+    {
+        "name": "Dard-Nuée",
+        "description": "-",
+        "power": 14,
+        "precision": 85,
+        "pp": 20,
+        "type": "Insecte"
+    },
+    {
+        "name": "Dard-Venin",
+        "description": "Une chance sur cinq d'empoisonner l'adversaire.",
+        "power": 15,
+        "precision": 100,
+        "pp": 35,
+        "type": "Poison"
+    },
+    {
+        "name": "Déflagration",
+        "description": "Une chance sur trois de brûler l'adversaire.",
+        "power": 120,
+        "precision": 85,
+        "pp": 5,
+        "type": "Feu"
+    },
+    {
+        "name": "Destruction",
+        "description": "L'attaquant explose, blesse l'adversaire et tombe K.O. Sans effet sur les Pokémon Spectre.",
+        "power": 130,
+        "precision": 100,
+        "pp": 5,
+        "type": "Normal"
+    },
+    {
+        "name": "Détritus",
+        "description": "Une chance sur deux d'empoisonner l'adversaire.",
+        "power": 65,
+        "precision": 100,
+        "pp": 20,
+        "type": "Poison"
+    },
+    {
+        "name": "Dévorêve",
+        "description": "Vole les PV de l'adversaire endormi.",
+        "power": 100,
+        "precision": 100,
+        "pp": 15,
+        "type": "Psy"
+    },
+    {
+        "name": "Double-Dard",
+        "description": "Touche deux fois l'adversaire. Peut éventuellement empoisonner l'adversaire.",
+        "power": 25,
+        "precision": 100,
+        "pp": 20,
+        "type": "Insecte"
+    },
+    {
+        "name": "Double-Pied",
+        "description": "Touche deux fois l'adversaire.",
+        "power": 30,
+        "precision": 100,
+        "pp": 30,
+        "type": "Combat"
+    },
+    {
+        "name": "Draco-Rage",
+        "description": "Inflige des dégâts sans tenir compte du type du Pokémon adverse.",
+        "power": 40,
+        "precision": 100,
+        "pp": 10,
+        "type": "Dragon"
+    },
+    {
+        "name": "Éboulement",
+        "description": "-",
+        "power": 80,
+        "precision": 90,
+        "pp": 10,
+        "type": "Roche"
+    },
+    {
+        "name": "Éclair",
+        "description": "Une chance sur dix de paralyser l'adversaire.",
+        "power": 40,
+        "precision": 100,
+        "pp": 30,
+        "type": "Électrik"
+    },
+    {
+        "name": "E-Coque",
+        "description": "Restaure les PV de moitié.",
+        "power": 0,
+        "precision": 0,
+        "pp": 10,
+        "type": "Plante"
+    },
+    {
+        "name": "Écrasement",
+        "description": "Une chance sur trois d'apeurer l'adversaire.",
+        "power": 65,
+        "precision": 100,
+        "pp": 20,
+        "type": "Normal"
+    },
+    {
+        "name": "Écras'Face",
+        "description": "-",
+        "power": 40,
+        "precision": 100,
+        "pp": 35,
+        "type": "Normal"
+    },
+    {
+        "name": "Écume",
+        "description": "Une chance sur trois de réduire la Vitesse de l'adversaire.",
+        "power": 20,
+        "precision": 100,
+        "pp": 30,
+        "type": "Eau"
+    },
+    {
+        "name": "Empal'Korne",
+        "description": "Peut mettre K.O. l'adversaire en un seul coup.",
+        "power": 30,
+        "precision": 5,
+        "pp": 5,
+        "type": "Normal"
+    },
+    {
+        "name": "Entrave",
+        "description": "Annule les attaques de l'adversaire pendant un certain temps.",
+        "power": 55,
+        "precision": 20,
+        "pp": 20,
+        "type": "Normal"
+    },
+    {
+        "name": "Étreinte",
+        "description": "Immobilise l'adversaire pendant quelques tours.",
+        "power": 15,
+        "precision": 75,
+        "pp": 20,
+        "type": "Normal"
+    },
+    {
+        "name": "Explosion",
+        "description": "L'attaquant explose. Blesse l'adversaire et tombe K.O.",
+        "power": 170,
+        "precision": 100,
+        "pp": 5,
+        "type": "Normal"
+    },
+    {
+        "name": "Fatal-Foudre",
+        "description": "Une chance sur dix de paralyser l'adversaire.",
+        "power": 120,
+        "precision": 70,
+        "pp": 10,
+        "type": "Électrik"
+    },
+    {
+        "name": "Flammèche",
+        "description": "Une chance sur dix de brûler l'adversaire.",
+        "power": 40,
+        "precision": 100,
+        "pp": 25,
+        "type": "Feu"
+    },
+    {
+        "name": "Flash",
+        "description": "Réduit la Précision de l'adversaire. Illumine les cavernes sombres.",
+        "power": 70,
+        "precision": 20,
+        "pp": 20,
+        "type": "Normal"
+    },
+    {
+        "name": "Force",
+        "description": "Déplace les rochers.",
+        "power": 80,
+        "precision": 100,
+        "pp": 15,
+        "type": "Normal"
+    },
+    {
+        "name": "Force-Poigne",
+        "description": "-",
+        "power": 55,
+        "precision": 100,
+        "pp": 30,
+        "type": "Normal"
+    },
+    {
+        "name": "Fouet Lianes",
+        "description": "-",
+        "power": 35,
+        "precision": 100,
+        "pp": 10,
+        "type": "Plante"
+    },
+    {
+        "name": "Frappe-Atlas",
+        "description": "-",
+        "power": 0,
+        "precision": 100,
+        "pp": 20,
+        "type": "Combat"
+    },
+    {
+        "name": "Frénésie",
+        "description": "Plus l'adversaire est touché, plus l'Attaque du lanceur augmente.",
+        "power": 20,
+        "precision": 100,
+        "pp": 20,
+        "type": "Normal"
+    },
+    {
+        "name": "Furie",
+        "description": "Touche plusieurs fois l'adversaire.",
+        "power": 15,
+        "precision": 85,
+        "pp": 20,
+        "type": "Normal"
+    },
+    {
+        "name": "Gaz Toxik",
+        "description": "Empoisonne l'adversaire.",
+        "power": 55,
+        "precision": 40,
+        "pp": 20,
+        "type": "Poison"
+    },
+    {
+        "name": "Griffe",
+        "description": "-",
+        "power": 40,
+        "precision": 100,
+        "pp": 35,
+        "type": "Normal"
+    },
+    {
+        "name": "Grincement",
+        "description": "Réduit la Défense de l'adversaire.",
+        "power": 85,
+        "precision": 40,
+        "pp": 40,
+        "type": "Normal"
+    },
+    {
+        "name": "Grobisou",
+        "description": "Endort l'adversaire.",
+        "power": 75,
+        "precision": 10,
+        "pp": 10,
+        "type": "Normal"
+    },
+    {
+        "name": "Groz'Yeux",
+        "description": "Réduit la Défense de l'adversaire.",
+        "power": 100,
+        "precision": 30,
+        "pp": 30,
+        "type": "Normal"
+    },
+    {
+        "name": "Guillotine",
+        "description": "Peut mettre K.O. l'adversaire en un seul coup.",
+        "power": 30,
+        "precision": 5,
+        "pp": 5,
+        "type": "Normal"
+    },
+    {
+        "name": "Hâte",
+        "description": "Augmente la Vitesse.",
+        "power": 100,
+        "precision": 30,
+        "pp": 30,
+        "type": "Normal"
+    },
+    {
+        "name": "Hurlement",
+        "description": "Peut apeurer l'adversaire et le faire fuir (uniquement les Pokémon sauvages).",
+        "power": 100,
+        "precision": 20,
+        "pp": 20,
+        "type": "Normal"
+    },
+    {
+        "name": "Hydrocanon",
+        "description": "-",
+        "power": 120,
+        "precision": 80,
+        "pp": 5,
+        "type": "Eau"
+    },
+    {
+        "name": "Hypnose",
+        "description": "Endort l'adversaire.",
+        "power": 60,
+        "precision": 20,
+        "pp": 20,
+        "type": "Psy"
+    },
+    {
+        "name": "Intimidation",
+        "description": "Empêche l'adversaire d'agir.",
+        "power": 75,
+        "precision": 30,
+        "pp": 30,
+        "type": "Normal"
+    },
+    {
+        "name": "Jackpot",
+        "description": "Rapporte plus d'argent à la fin du combat, en fonction du niveau et du nombre d'attaques du lanceur.",
+        "power": 40,
+        "precision": 100,
+        "pp": 20,
+        "type": "Normal"
+    },
+    {
+        "name": "Jet de Sable",
+        "description": "Réduit la Précision de l'adversaire.",
+        "power": 0,
+        "precision": 0,
+        "pp": 15,
+        "type": "Sol"
+    },
+    {
+        "name": "Jet-Pierres",
+        "description": "-",
+        "power": 50,
+        "precision": 75,
+        "pp": 15,
+        "type": "Roche"
+    },
+    {
+        "name": "Koud'Korne",
+        "description": "-",
+        "power": 65,
+        "precision": 100,
+        "pp": 25,
+        "type": "Glace"
+    },
+    {
+        "name": "Lance-Flamme",
+        "description": "Une chance sur dix de brûler l'adversaire.",
+        "power": 95,
+        "precision": 100,
+        "pp": 15,
+        "type": "Feu"
+    },
+    {
+        "name": "Lance-Soleil",
+        "description": "Nécessite deux tours avant d'être lancé sur l'adversaire.",
+        "power": 120,
+        "precision": 100,
+        "pp": 10,
+        "type": "Plante"
+    },
+    {
+        "name": "Laser-Glace",
+        "description": "Une chance sur dix de geler l'adversaire.",
+        "power": 95,
+        "precision": 100,
+        "pp": 10,
+        "type": "Glace"
+    },
+    {
+        "name": "Léchouille",
+        "description": "Une chance sur trois de paralyser l'adversaire.",
+        "power": 20,
+        "precision": 100,
+        "pp": 30,
+        "type": "Spectre"
+    },
+    {
+        "name": "Ligotage",
+        "description": "L'adversaire est immobilisé pendant deux à cinq tours.",
+        "power": 15,
+        "precision": 85,
+        "pp": 20,
+        "type": "Normal"
+    },
+    {
+        "name": "Liliput",
+        "description": "Réduit la taille du lanceur qui devient difficile à toucher.",
+        "power": 0,
+        "precision": 0,
+        "pp": 20,
+        "type": "Normal"
+    },
+    {
+        "name": "Lutte",
+        "description": "Le lanceur s'inflige un quart des dégâts.",
+        "power": 100,
+        "precision": 100,
+        "pp": 0,
+        "type": "Normal"
+    },
+    {
+        "name": "Mania",
+        "description": "L'attaque se déroule sur trois tours, mais rend le lanceur confus.",
+        "power": 90,
+        "precision": 100,
+        "pp": 20,
+        "type": "Normal"
+    },
+    {
+        "name": "Massd'Os",
+        "description": "Peut apeurer l'adversaire.",
+        "power": 65,
+        "precision": 85,
+        "pp": 20,
+        "type": "Sol"
+    },
+    {
+        "name": "Mawashi Geri",
+        "description": "Une chance sur trois d'apeurer l'adversaire.",
+        "power": 60,
+        "precision": 80,
+        "pp": 15,
+        "type": "Combat"
+    },
+    {
+        "name": "Méga-Sangsue",
+        "description": "Transforme la moitié des dégâts infligés par le lanceur en PV qu'il récupère durant le combat.",
+        "power": 40,
+        "precision": 100,
+        "pp": 10,
+        "type": "Plante"
+    },
+    {
+        "name": "Météores",
+        "description": "Ne rate jamais l'adversaire.",
+        "power": 60,
+        "precision": 100,
+        "pp": 20,
+        "type": "Normal"
+    },
+    {
+        "name": "Métronome",
+        "description": "Le lanceur lance une attaque au hasard.",
+        "power": 0,
+        "precision": 0,
+        "pp": 10,
+        "type": "Normal"
+    },
+    {
+        "name": "Mimique",
+        "description": "Riposte en copiant la dernière attaque de l'adversaire.",
+        "power": 0,
+        "precision": 0,
+        "pp": 20,
+        "type": "Normal"
+    },
+    {
+        "name": "Mimi-Queue",
+        "description": "Réduit la Défense de l'adversaire.",
+        "power": 0,
+        "precision": 0,
+        "pp": 30,
+        "type": "Normal"
+    },
+    {
+        "name": "Morphing",
+        "description": "Le lanceur se transforme en copie de la cible et dispose de ses attaques à raison de 5 PP par attaque.",
+        "power": 0,
+        "precision": 0,
+        "pp": 10,
+        "type": "Normal"
+    },
+    {
+        "name": "Morsure",
+        "description": "Peut apeurer l'adversaire.",
+        "power": 60,
+        "precision": 100,
+        "pp": 25,
+        "type": "Ténèbres"
+    },
+    {
+        "name": "Mur Lumière",
+        "description": "Réduit de moitié les dégâts causés par une attaque spéciale.",
+        "power": 0,
+        "precision": 0,
+        "pp": 30,
+        "type": "Psy"
+    },
+    {
+        "name": "Onde Boréale",
+        "description": "Une chance sur trois de réduire l'Attaque de l'adversaire.",
+        "power": 65,
+        "precision": 100,
+        "pp": 20,
+        "type": "Glace"
+    },
+    {
+        "name": "Onde Folie",
+        "description": "Rend l'adversaire confus.",
+        "power": 0,
+        "precision": 0,
+        "pp": 10,
+        "type": "Psy"
+    },
+    {
+        "name": "Osmerang",
+        "description": "Inflige deux fois des dégâts en une attaque.",
+        "power": 50,
+        "precision": 90,
+        "pp": 10,
+        "type": "Sol"
+    },
+    {
+        "name": "Paraspore",
+        "description": "Paralyse l'adversaire.",
+        "power": 75,
+        "precision": 30,
+        "pp": 30,
+        "type": "Plante"
+    },
+    {
+        "name": "Patience",
+        "description": "Le lanceur attend plusieurs tours et lance une attaque faisant le double des dégâts encaissés.",
+        "power": 0,
+        "precision": 0,
+        "pp": 10,
+        "type": "Normal"
+    },
+    {
+        "name": "Picanon",
+        "description": "-",
+        "power": 40,
+        "precision": 100,
+        "pp": 20,
+        "type": "Eau"
+    },
+    {
+        "name": "Plaquage",
+        "description": "Une chance sur trois de paralyser l'adversaire.",
+        "power": 85,
+        "precision": 100,
+        "pp": 15,
+        "type": "Normal"
+    },
+    {
+        "name": "Poing Comète",
+        "description": "Touche l'adversaire de deux à cinq fois à la suite.",
+        "power": 18,
+        "precision": 85,
+        "pp": 15,
+        "type": "Normal"
+    },
+    {
+        "name": "Poing de Feu",
+        "description": "Une chance sur dix de brûler l'adversaire.",
+        "power": 75,
+        "precision": 100,
+        "pp": 15,
+        "type": "Feu"
+    },
+    {
+        "name": "Poing Karaté",
+        "description": "Haute chance de donner des coups critiques.",
+        "power": 50,
+        "precision": 100,
+        "pp": 25,
+        "type": "Combat"
+    },
+    {
+        "name": "Poing Éclair",
+        "description": "Une chance sur dix de paralyser l'adversaire.",
+        "power": 75,
+        "precision": 100,
+        "pp": 15,
+        "type": "Électrik"
+    },
+    {
+        "name": "Poing Glace",
+        "description": "Une chance sur dix de geler l'adversaire.",
+        "power": 75,
+        "precision": 100,
+        "pp": 15,
+        "type": "Glace"
+    },
+    {
+        "name": "Poudre Dodo",
+        "description": "Endort l'adversaire pour plusieurs tours.",
+        "power": 75,
+        "precision": 15,
+        "pp": 15,
+        "type": "Plante"
+    },
+    {
+        "name": "Poudre Toxik",
+        "description": "Empoisonne l'adversaire.",
+        "power": 75,
+        "precision": 35,
+        "pp": 35,
+        "type": "Poison"
+    },
+    {
+        "name": "Protection",
+        "description": "Réduit des dégâts infligés par une attaque physique de moitié.",
+        "power": 0,
+        "precision": 0,
+        "pp": 20,
+        "type": "Normal"
+    },
+    {
+        "name": "Psyko",
+        "description": "Une chance sur dix de réduire la Défense de l'adversaire.",
+        "power": 90,
+        "precision": 100,
+        "pp": 10,
+        "type": "Psy"
+    },
+    {
+        "name": "Puissance",
+        "description": "Augmente les chances de faire un coup critique.",
+        "power": 0,
+        "precision": 0,
+        "pp": 30,
+        "type": "Normal"
+    },
+    {
+        "name": "Purédpois",
+        "description": "Une chance sur deux d'empoisonner l'adversaire.",
+        "power": 20,
+        "precision": 70,
+        "pp": 20,
+        "type": "Poison"
+    },
+    {
+        "name": "Rafale Psy",
+        "description": "Une chance sur dix de rendre confus l'adversaire.",
+        "power": 65,
+        "precision": 100,
+        "pp": 20,
+        "type": "Psy"
+    },
+    {
+        "name": "Reflet",
+        "description": "Réduit la Précision de l'adversaire.",
+        "power": 0,
+        "precision": 0,
+        "pp": 15,
+        "type": "Normal"
+    },
+    {
+        "name": "Repli",
+        "description": "Augmente la Défense.",
+        "power": 0,
+        "precision": 0,
+        "pp": 40,
+        "type": "Normal"
+    },
+    {
+        "name": "Repos",
+        "description": "Le lanceur s'endort et soigne tous ses PV et changements de statut.",
+        "power": 0,
+        "precision": 0,
+        "pp": 10,
+        "type": "Psy"
+    },
+    {
+        "name": "Riposte",
+        "description": "Riposte infligeant le double des dégâts provoqués par une attaque physique.",
+        "power": 0,
+        "precision": 0,
+        "pp": 20,
+        "type": "Combat"
+    },
+    {
+        "name": "Rugissement",
+        "description": "Réduit l'Attaque de l'adversaire.",
+        "power": 0,
+        "precision": 0,
+        "pp": 10,
+        "type": "Normal"
+    },
+    {
+        "name": "Sacrifice",
+        "description": "Le lanceur subit un quart des dégâts infligés à l'adversaire.",
+        "power": 80,
+        "precision": 80,
+        "pp": 25,
+        "type": "Combat"
+    },
+    {
+        "name": "Sécrétion",
+        "description": "Réduit la Vitesse de l'adversaire.",
+        "power": 0,
+        "precision": 0,
+        "pp": 40,
+        "type": "Insecte"
+    },
+    {
+        "name": "Séisme",
+        "description": "Inefficace contre les Pokémon de type Vol.",
+        "power": 100,
+        "precision": 100,
+        "pp": 10,
+        "type": "Sol"
+    },
+    {
+        "name": "Soin",
+        "description": "Soigne de moitié les PV du lanceur.",
+        "power": 0,
+        "precision": 0,
+        "pp": 10,
+        "type": "Psy"
+    },
+    {
+        "name": "Sonicboom",
+        "description": "Inflige des dégâts sans prendre en compte le type de l'adversaire.",
+        "power": 20,
+        "precision": 100,
+        "pp": 20,
+        "type": "Normal"
+    },
+    {
+        "name": "Souplesse",
+        "description": "-",
+        "power": 80,
+        "precision": 75,
+        "pp": 20,
+        "type": "Normal"
+    },
+    {
+        "name": "Spore",
+        "description": "Endort l'adversaire",
+        "power": 100,
+        "precision": 15,
+        "pp": 15,
+        "type": "Plante"
+    },
+    {
+        "name": "Surf",
+        "description": "Permet de se déplacer sur l'eau en utilisant un Pokémon de type Eau.",
+        "power": 95,
+        "precision": 100,
+        "pp": 15,
+        "type": "Eau"
+    },
+    {
+        "name": "Télékinésie",
+        "description": "Réduit la Précision de l'adversaire.",
+        "power": 75,
+        "precision": 15,
+        "pp": 15,
+        "type": "Psy"
+    },
+    {
+        "name": "Téléport",
+        "description": "Permet de s'échapper d'un combat face à un Pokémon sauvage. S'utilise aussi sur la Carte pour rejoindre une ville déjà visitée.",
+        "power": 100,
+        "precision": 20,
+        "pp": 20,
+        "type": "Psy"
+    },
+    {
+        "name": "Ténèbres",
+        "description": "Inflige des dégâts sans prendre en compte le type de l'adversaire.",
+        "power": 0,
+        "precision": 100,
+        "pp": 15,
+        "type": "Ténèbres"
+    },
+    {
+        "name": "Tonnerre",
+        "description": "Une chance sur dix de paralyser l'adversaire.",
+        "power": 95,
+        "precision": 100,
+        "pp": 15,
+        "type": "Électrik"
+    },
+    {
+        "name": "Torgnoles",
+        "description": "Touche l'adversaire de deux à cinq fois à la suite.",
+        "power": 15,
+        "precision": 85,
+        "pp": 10,
+        "type": "Normal"
+    },
+    {
+        "name": "Tornade",
+        "description": "-",
+        "power": 40,
+        "precision": 100,
+        "pp": 35,
+        "type": "Normal"
+    },
+    {
+        "name": "Toxik",
+        "description": "Empoisonne l'adversaire. Les dégâts augmentent à chaque tour durant le combat.",
+        "power": 85,
+        "precision": 10,
+        "pp": 10,
+        "type": "Poison"
+    },
+    {
+        "name": "Tranche",
+        "description": "Peut infliger un coup critique.",
+        "power": 70,
+        "precision": 100,
+        "pp": 20,
+        "type": "Normal"
+    },
+    {
+        "name": "Tranch'Herbe",
+        "description": "Peut infliger un coup critique.",
+        "power": 55,
+        "precision": 95,
+        "pp": 25,
+        "type": "Plante"
+    },
+    {
+        "name": "Trempette",
+        "description": "Attaque sans effet.",
+        "power": 100,
+        "precision": 40,
+        "pp": 40,
+        "type": "Normal"
+    },
+    {
+        "name": "Triplattaque",
+        "description": "-",
+        "power": 80,
+        "precision": 100,
+        "pp": 10,
+        "type": "Normal"
+    },
+    {
+        "name": "Tunnel",
+        "description": "Le lanceur s'enterre au premier tour et attaque au second tour. Permet de s'échapper d'une grotte.",
+        "power": 100,
+        "precision": 100,
+        "pp": 10,
+        "type": "Sol"
+    },
+    {
+        "name": "Ultimapoing",
+        "description": "-",
+        "power": 80,
+        "precision": 85,
+        "pp": 20,
+        "type": "Combat"
+    },
+    {
+        "name": "Ultimawashi",
+        "description": "-",
+        "power": 120,
+        "precision": 75,
+        "pp": 5,
+        "type": "Combat"
+    },
+    {
+        "name": "Ultralaser",
+        "description": "Le lanceur se repose un tour après avoir lancé l'attaque.",
+        "power": 120,
+        "precision": 90,
+        "pp": 5,
+        "type": "Normal"
+    },
+    {
+        "name": "Ultrason",
+        "description": "Rend confus l'adversaire.",
+        "power": 55,
+        "precision": 20,
+        "pp": 20,
+        "type": "Normal"
+    },
+    {
+        "name": "Uppercut",
+        "description": "-",
+        "power": 70,
+        "precision": 100,
+        "pp": 10,
+        "type": "Combat"
+    },
+    {
+        "name": "Vague Psy",
+        "description": "-",
+        "power": 80,
+        "precision": 15,
+        "pp": 15,
+        "type": "Psy"
+    },
+    {
+        "name": "Vampigraine",
+        "description": "Draine les PV de l'adversaire.",
+        "power": 90,
+        "precision": 10,
+        "pp": 10,
+        "type": "Plante"
+    },
+    {
+        "name": "Vampirisme",
+        "description": "Draine les PV de l'adversaire.",
+        "power": 20,
+        "precision": 100,
+        "pp": 15,
+        "type": "Spectre"
+    },
+    {
+        "name": "Vive-Attaque",
+        "description": "Frappe en premier.",
+        "power": 40,
+        "precision": 100,
+        "pp": 30,
+        "type": "Normal"
+    },
+    {
+        "name": "Vol",
+        "description": "L'attaquant s'envole au premier tour et attaque au second. Permet de se déplacer sur la Carte pour rejoindre une ville déjà visitée.",
+        "power": 70,
+        "precision": 95,
+        "pp": 15,
+        "type": "Vol"
+    },
+    {
+        "name": "Vol-Vie",
+        "description": "Draine les PV de l'adversaire.",
+        "power": 20,
+        "precision": 100,
+        "pp": 20,
+        "type": "Plante"
+    },
+    {
+        "name": "Yoga",
+        "description": "Augmente l'Attaque.",
+        "power": 0,
+        "precision": 0,
+        "pp": 40,
+        "type": "Psy"
+    }
+]

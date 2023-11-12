@@ -1,0 +1,56 @@
+[
+    {
+        "name": "Acier"
+    },
+    {
+        "name": "Combat"
+    },
+    {
+        "name": "Dragon"
+    },
+    {
+        "name": "Eau"
+    },
+    {
+        "name": "Électrik"
+    },
+    {
+        "name": "Fée"
+    },
+    {
+        "name": "Feu"
+    },
+    {
+        "name": "Glace"
+    },
+    {
+        "name": "Insecte"
+    },
+    {
+        "name": "Normal"
+    },
+    {
+        "name": "Plante"
+    },
+    {
+        "name": "Poison"
+    },
+    {
+        "name": "Psy"
+    },
+    {
+        "name": "Roche"
+    },
+    {
+        "name": "Sol"
+    },
+    {
+        "name": "Spectre"
+    },
+    {
+        "name": "Ténèbres"
+    },
+    {
+        "name": "Vol"
+    }
+]

@@ -1,0 +1,4896 @@
+[
+    {
+        "number": "1",
+        "name": "Bulbizarre",
+        "size": "0.7 m",
+        "weight": "6.9 kg",
+        "statistic": {
+            "hp": 45,
+            "attack": 49,
+            "defense": 49,
+            "special-attack": 65,
+            "special-defense": 65,
+            "speed": 45
+        },
+        "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/001.png",
+        "type": [
+            "Plante",
+            "Poison"
+        ],
+        "learnset": [
+            "Charge",
+            "Rugissement",
+            "Fouet Lianes",
+            "Croissance",
+            "Vampigraine",
+            "Tranch'Herbe",
+            "Poudre Dodo",
+            "Poudre Toxik",
+            "Canon Graine",
+            "Bélier",
+            "Doux Parfum",
+            "Synthèse",
+            "Soucigraine",
+            "Damoclès",
+            "Lance-Soleil"
+        ]
+    },
+    {
+        "number": "2",
+        "name": "Herbizarre",
+        "size": "1.0 m",
+        "weight": "13.0 kg",
+        "statistic": {
+            "hp": 60,
+            "attack": 62,
+            "defense": 63,
+            "special-attack": 80,
+            "special-defense": 80,
+            "speed": 60
+        },
+        "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/002.png",
+        "type": [
+            "Plante",
+            "Poison"
+        ],
+        "learnset": [
+            "Charge",
+            "Rugissement",
+            "Fouet Lianes",
+            "Croissance",
+            "Vampigraine",
+            "Tranch'Herbe",
+            "Poudre Dodo",
+            "Poudre Toxik",
+            "Canon Graine",
+            "Bélier",
+            "Doux Parfum",
+            "Synthèse",
+            "Soucigraine",
+            "Damoclès",
+            "Lance-Soleil"
+        ]
+    },
+    {
+        "number": "3",
+        "name": "Florizarre",
+        "size": "2.0 m",
+        "weight": "100.0 kg",
+        "statistic": {
+            "hp": 80,
+            "attack": 82,
+            "defense": 83,
+            "special-attack": 100,
+            "special-defense": 100,
+            "speed": 80
+        },
+        "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/003.png",
+        "type": [
+            "Plante",
+            "Poison"
+        ],
+        "learnset": [
+            "Charge",
+            "Rugissement",
+            "Fouet Lianes",
+            "Croissance",
+            "Vampigraine",
+            "Tranch'Herbe",
+            "Poudre Dodo",
+            "Poudre Toxik",
+            "Canon Graine",
+            "Bélier",
+            "Doux Parfum",
+            "Synthèse",
+            "Soucigraine",
+            "Damoclès",
+            "Lance-Soleil"
+        ]
+    },
+    {
+        "number": "4",
+        "name": "Salamèche",
+        "size": "0.6 m",
+        "weight": "8.5 kg",
+        "statistic": {
+            "hp": 39,
+            "attack": 52,
+            "defense": 43,
+            "special-attack": 60,
+            "special-defense": 50,
+            "speed": 65
+        },
+        "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/004.png",
+        "type": [
+            "Feu"
+        ],
+        "learnset": [
+            "Griffe",
+            "Flammèche",
+            "Rugissement",
+            "Mimi-Queue",
+            "Vive-Attaque",
+            "Furie",
+            "Danse Flamme",
+            "Tranche",
+            "Repos"
+        ]
+    },
+    {
+        "number": "5",
+        "name": "Reptincel",
+        "size": "1.1 m",
+        "weight": "19.0 kg",
+        "statistic": {
+            "hp": 58,
+            "attack": 64,
+            "defense": 58,
+            "special-attack": 80,
+            "special-defense": 65,
+            "speed": 80
+        },
+        "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/005.png",
+        "type": [
+            "Feu"
+        ],
+        "learnset": [
+            "Griffe",
+            "Flammèche",
+            "Rugissement",
+            "Mimi-Queue",
+            "Vive-Attaque",
+            "Furie",
+            "Danse Flamme",
+            "Tranche",
+            "Repos"
+        ]
+    },
+    {
+        "number": "6",
+        "name": "Dracaufeu",
+        "size": "1.7 m",
+        "weight": "90.5 kg",
+        "statistic": {
+            "hp": 78,
+            "attack": 84,
+            "defense": 78,
+            "special-attack": 109,
+            "special-defense": 85,
+            "speed": 100
+        },
+        "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/006.png",
+        "type": [
+            "Feu",
+            "Vol"
+        ],
+        "learnset": [
+            "Griffe",
+            "Flammèche",
+            "Rugissement",
+            "Mimi-Queue",
+            "Vive-Attaque",
+            "Furie",
+            "Danse Flamme",
+            "Tranche",
+            "Repos"
+        ]
+    },
+    {
+        "number": "7",
+        "name": "Carapuce",
+        "size": "0.5 m",
+        "weight": "9.0 kg",
+        "statistic": {
+            "hp": 44,
+            "attack": 48,
+            "defense": 65,
+            "special-attack": 50,
+            "special-defense": 64,
+            "speed": 43
+        },
+        "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/007.png",
+        "type": [
+            "Eau"
+        ],
+        "learnset": [
+            "Charge",
+            "Mimi-Queue",
+            "Pistolet à O",
+            "Morsure",
+            "Repli",
+            "Ecume",
+            "Morsure",
+            "Bulles d'O",
+            "Ocroupi",
+            "Hydrocanon"
+        ]
+    },
+    {
+        "number": "8",
+        "name": "Carabaffe",
+        "size": "1.0 m",
+        "weight": "22.5 kg",
+        "statistic": {
+            "hp": 59,
+            "attack": 63,
+            "defense": 80,
+            "special-attack": 65,
+            "special-defense": 80,
+            "speed": 58
+        },
+        "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/008.png",
+        "type": [
+            "Eau"
+        ],
+        "learnset": [
+            "Charge",
+            "Mimi-Queue",
+            "Pistolet à O",
+            "Morsure",
+            "Repli",
+            "Ecume",
+            "Morsure",
+            "Bulles d'O",
+            "Ocroupi",
+            "Hydrocanon"
+        ]
+    },
+    {
+        "number": "9",
+        "name": "Tortank",
+        "size": "1.6 m",
+        "weight": "85.5 kg",
+        "statistic": {
+            "hp": 79,
+            "attack": 83,
+            "defense": 100,
+            "special-attack": 85,
+            "special-defense": 105,
+            "speed": 78
+        },
+        "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/009.png",
+        "type": [
+            "Eau"
+        ],
+        "learnset": [
+            "Charge",
+            "Mimi-Queue",
+            "Pistolet à O",
+            "Morsure",
+            "Repli",
+            "Ecume",
+            "Morsure",
+            "Bulles d'O",
+            "Ocroupi",
+            "Hydrocanon"
+        ]
+    },
+    {
+        "number": "10",
+        "name": "Chenipan",
+        "size": "0.3 m",
+        "weight": "2.9 kg",
+        "statistic": {
+            "hp": 45,
+            "attack": 30,
+            "defense": 35,
+            "special-attack": 20,
+            "special-defense": 20,
+            "speed": 45
+        },
+        "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/010.png",
+        "type": [
+            "Insecte"
+        ],
+        "learnset": [
+            "Dard-Venin",
+            "Sécrétion",
+            "Charge",
+            "Mimi-Queue",
+            "Dard-Nuée",
+            "Fouet Lianes",
+            "Morsure",
+            "Dard-Nuée",
+            "Toile"
+        ]
+    },
+    {
+        "number": "11",
+        "name": "Chrysacier",
+        "size": "0.7 m",
+        "weight": "9.9 kg",
+        "statistic": {
+            "hp": 50,
+            "attack": 20,
+            "defense": 55,
+            "special-attack": 25,
+            "special-defense": 25,
+            "speed": 30
+        },
+        "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/011.png",
+        "type": [
+            "Insecte"
+        ],
+        "learnset": [
+            "Dard-Venin",
+            "Sécrétion",
+            "Charge",
+            "Mimi-Queue",
+            "Dard-Nuée",
+            "Fouet Lianes",
+            "Morsure",
+            "Dard-Nuée",
+            "Toile"
+        ]
+    },
+    {
+        "number": "12",
+        "name": "Papilusion",
+        "size": "1.1 m",
+        "weight": "32.0 kg",
+        "statistic": {
+            "hp": 60,
+            "attack": 45,
+            "defense": 50,
+            "special-attack": 90,
+            "special-defense": 80,
+            "speed": 70
+        },
+        "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/012.png",
+        "type": [
+            "Insecte",
+            "Vol"
+        ],
+        "learnset": [
+            "Dard-Venin",
+            "Sécrétion",
+            "Charge",
+            "Mimi-Queue",
+            "Dard-Nuée",
+            "Fouet Lianes",
+            "Morsure",
+            "Dard-Nuée",
+            "Toile"
+        ]
+    },
+    {
+        "number": "13",
+        "name": "Aspicot",
+        "size": "0.3 m",
+        "weight": "3.2 kg",
+        "statistic": {
+            "hp": 40,
+            "attack": 35,
+            "defense": 30,
+            "special-attack": 20,
+            "special-defense": 20,
+            "speed": 50
+        },
+        "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/013.png",
+        "type": [
+            "Insecte",
+            "Poison"
+        ],
+        "learnset": [
+            "Dard-Venin",
+            "Sécrétion",
+            "Charge",
+            "Mimi-Queue",
+            "Dard-Nuée",
+            "Fouet Lianes",
+            "Morsure",
+            "Dard-Nuée",
+            "Toile"
+        ]
+    },
+    {
+        "number": "14",
+        "name": "Coconfort",
+        "size": "0.6 m",
+        "weight": "10.0 kg",
+        "statistic": {
+            "hp": 45,
+            "attack": 25,
+            "defense": 50,
+            "special-attack": 25,
+            "special-defense": 25,
+            "speed": 35
+        },
+        "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/014.png",
+        "type": [
+            "Insecte",
+            "Poison"
+        ],
+        "learnset": [
+            "Dard-Venin",
+            "Sécrétion",
+            "Charge",
+            "Mimi-Queue",
+            "Dard-Nuée",
+            "Fouet Lianes",
+            "Morsure",
+            "Dard-Nuée",
+            "Toile"
+        ]
+    },
+    {
+        "number": "15",
+        "name": "Dardargnan",
+        "size": "1.0 m",
+        "weight": "29.5 kg",
+        "statistic": {
+            "hp": 65,
+            "attack": 90,
+            "defense": 40,
+            "special-attack": 45,
+            "special-defense": 80,
+            "speed": 75
+        },
+        "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/015.png",
+        "type": [
+            "Insecte",
+            "Poison"
+        ],
+        "learnset": [
+            "Dard-Venin",
+            "Sécrétion",
+            "Charge",
+            "Mimi-Queue",
+            "Dard-Nuée",
+            "Fouet Lianes",
+            "Morsure",
+            "Dard-Nuée",
+            "Toile"
+        ]
+    },
+    {
+        "number": "16",
+        "name": "Roucool",
+        "size": "0.3 m",
+        "weight": "1.8 kg",
+        "statistic": {
+            "hp": 40,
+            "attack": 45,
+            "defense": 40,
+            "special-attack": 35,
+            "special-defense": 35,
+            "speed": 56
+        },
+        "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/016.png",
+        "type": [
+            "Normal",
+            "Vol"
+        ],
+        "learnset": [
+            "Charge",
+            "Rugissement",
+            "Picpic",
+            "Jet de Sable",
+            "Tornade",
+            "Vive-Attaque",
+            "Furie",
+            "Mimique",
+            "Tornade",
+            "Cru-Aile",
+            "Rafale Psy",
+            "Tranch'Air"
+        ]
+    },
+    {
+        "number": "17",
+        "name": "Roucoups",
+        "size": "1.1 m",
+        "weight": "30.0 kg",
+        "statistic": {
+            "hp": 63,
+            "attack": 60,
+            "defense": 55,
+            "special-attack": 50,
+            "special-defense": 50,
+            "speed": 71
+        },
+        "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/017.png",
+        "type": [
+            "Normal",
+            "Vol"
+        ],
+        "learnset": [
+            "Charge",
+            "Rugissement",
+            "Picpic",
+            "Jet de Sable",
+            "Tornade",
+            "Vive-Attaque",
+            "Furie",
+            "Mimique",
+            "Tornade",
+            "Cru-Aile",
+            "Rafale Psy",
+            "Tranch'Air"
+        ]
+    },
+    {
+        "number": "18",
+        "name": "Roucarnage",
+        "size": "1.5 m",
+        "weight": "39.5 kg",
+        "statistic": {
+            "hp": 83,
+            "attack": 80,
+            "defense": 75,
+            "special-attack": 70,
+            "special-defense": 70,
+            "speed": 101
+        },
+        "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/018.png",
+        "type": [
+            "Normal",
+            "Vol"
+        ],
+        "learnset": [
+            "Charge",
+            "Rugissement",
+            "Picpic",
+            "Jet de Sable",
+            "Tornade",
+            "Vive-Attaque",
+            "Furie",
+            "Mimique",
+            "Tornade",
+            "Cru-Aile",
+            "Rafale Psy",
+            "Tranch'Air"
+        ]
+    },
+    {
+        "number": "19",
+        "name": "Rattata",
+        "size": "0.3 m",
+        "weight": "3.5 kg",
+        "statistic": {
+            "hp": 30,
+            "attack": 56,
+            "defense": 35,
+            "special-attack": 25,
+            "special-defense": 35,
+            "speed": 72
+        },
+        "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/019.png",
+        "type": [
+            "Normal"
+        ],
+        "learnset": [
+            "Charge",
+            "Rugissement",
+            "Mimi-Queue",
+            "Morsure",
+            "Furie",
+            "Mimique",
+            "Morsure",
+            "Coud'Krâne",
+            "Croc Fatal",
+            "Croc de Mort"
+        ]
+    },
+    {
+        "number": "20",
+        "name": "Rattatac",
+        "size": "0.7 m",
+        "weight": "18.5 kg",
+        "statistic": {
+            "hp": 55,
+            "attack": 81,
+            "defense": 60,
+            "special-attack": 50,
+            "special-defense": 70,
+            "speed": 97
+        },
+        "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/020.png",
+        "type": [
+            "Normal"
+        ],
+        "learnset": [
+            "Charge",
+            "Rugissement",
+            "Mimi-Queue",
+            "Morsure",
+            "Furie",
+            "Mimique",
+            "Morsure",
+            "Coud'Krâne",
+            "Croc Fatal",
+            "Croc de Mort"
+        ]
+    },
+    {
+        "number": "21",
+        "name": "Piafabec",
+        "size": "0.3 m",
+        "weight": "2.0 kg",
+        "statistic": {
+            "hp": 40,
+            "attack": 60,
+            "defense": 30,
+            "special-attack": 31,
+            "special-defense": 31,
+            "speed": 70
+        },
+        "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/021.png",
+        "type": [
+            "Normal",
+            "Vol"
+        ],
+        "learnset": [
+            "Picpic",
+            "Jet de Sable",
+            "Tornade",
+            "Vive-Attaque",
+            "Furie",
+            "Mimique",
+            "Tornade",
+            "Cru-Aile",
+            "Rafale Psy",
+            "Tranch'Air"
+        ]
+    },
+    {
+        "number": "22",
+        "name": "Rapasdepic",
+        "size": "1.2 m",
+        "weight": "38.0 kg",
+        "statistic": {
+            "hp": 65,
+            "attack": 90,
+            "defense": 65,
+            "special-attack": 61,
+            "special-defense": 61,
+            "speed": 100
+        },
+        "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/022.png",
+        "type": [
+            "Normal",
+            "Vol"
+        ],
+        "learnset": [
+            "Picpic",
+            "Jet de Sable",
+            "Tornade",
+            "Vive-Attaque",
+            "Furie",
+            "Mimique",
+            "Tornade",
+            "Cru-Aile",
+            "Rafale Psy",
+            "Tranch'Air"
+        ]
+    },
+    {
+        "number": "23",
+        "name": "Abo",
+        "size": "2.0 m",
+        "weight": "6.9 kg",
+        "statistic": {
+            "hp": 35,
+            "attack": 60,
+            "defense": 44,
+            "special-attack": 40,
+            "special-defense": 54,
+            "speed": 55
+        },
+        "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/023.png",
+        "type": [
+            "Poison"
+        ],
+        "learnset": [
+            "Dard-Venin",
+            "Morsure",
+            "Mimi-Queue",
+            "Dard-Nuée",
+            "Fouet Lianes",
+            "Morsure",
+            "Dard-Nuée",
+            "Toile",
+            "Bomb-Beurk",
+            "Gaz Toxik"
+        ]
+    },
+    {
+        "number": "24",
+        "name": "Arbok",
+        "size": "3.5 m",
+        "weight": "65.0 kg",
+        "statistic": {
+            "hp": 60,
+            "attack": 95,
+            "defense": 69,
+            "special-attack": 65,
+            "special-defense": 79,
+            "speed": 80
+        },
+        "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/024.png",
+        "type": [
+            "Poison"
+        ],
+        "learnset": [
+            "Dard-Venin",
+            "Morsure",
+            "Mimi-Queue",
+            "Dard-Nuée",
+            "Fouet Lianes",
+            "Morsure",
+            "Dard-Nuée",
+            "Toile",
+            "Bomb-Beurk",
+            "Gaz Toxik"
+        ]
+    },
+    {
+        "number": "25",
+        "name": "Pikachu",
+        "size": "0.4 m",
+        "weight": "6.0 kg",
+        "statistic": {
+            "hp": 35,
+            "attack": 55,
+            "defense": 40,
+            "special-attack": 50,
+            "special-defense": 50,
+            "speed": 90
+        },
+        "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/025.png",
+        "type": [
+            "Électrik"
+        ],
+        "learnset": [
+            "Charge",
+            "Rugissement",
+            "Mimi-Queue",
+            "Vive-Attaque",
+            "Furie",
+            "Mimique",
+            "Tonnerre",
+            "Fatal-Foudre",
+            "Cage-Éclair",
+            "Eclair",
+            "Tonnerre",
+            "Fatal-Foudre"
+        ]
+    },
+    {
+        "number": "26",
+        "name": "Raichu",
+        "size": "0.8 m",
+        "weight": "30.0 kg",
+        "statistic": {
+            "hp": 60,
+            "attack": 90,
+            "defense": 55,
+            "special-attack": 90,
+            "special-defense": 80,
+            "speed": 110
+        },
+        "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/026.png",
+        "type": [
+            "Électrik"
+        ],
+        "learnset": [
+            "Charge",
+            "Rugissement",
+            "Mimi-Queue",
+            "Vive-Attaque",
+            "Furie",
+            "Mimique",
+            "Tonnerre",
+            "Fatal-Foudre",
+            "Cage-Éclair",
+            "Eclair",
+            "Tonnerre",
+            "Fatal-Foudre"
+        ]
+    },
+    {
+        "number": "27",
+        "name": "Sabelette",
+        "size": "0.6 m",
+        "weight": "12.0 kg",
+        "statistic": {
+            "hp": 50,
+            "attack": 75,
+            "defense": 85,
+            "special-attack": 20,
+            "special-defense": 30,
+            "speed": 40
+        },
+        "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/027.png",
+        "type": [
+            "Sol"
+        ],
+        "learnset": [
+            "Griffe",
+            "Jet de Sable",
+            "Mimi-Queue",
+            "Furie",
+            "Mimique",
+            "Tunnel",
+            "Séisme",
+            "Tunnel",
+            "Fouet Lianes",
+            "Coud'Krâne",
+            "Croc Fatal",
+            "Croc de Mort"
+        ]
+    },
+    {
+        "number": "28",
+        "name": "Sablaireau",
+        "size": "1.0 m",
+        "weight": "29.5 kg",
+        "statistic": {
+            "hp": 75,
+            "attack": 100,
+            "defense": 110,
+            "special-attack": 45,
+            "special-defense": 55,
+            "speed": 65
+        },
+        "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/028.png",
+        "type": [
+            "Sol"
+        ],
+        "learnset": [
+            "Griffe",
+            "Jet de Sable",
+            "Mimi-Queue",
+            "Furie",
+            "Mimique",
+            "Tunnel",
+            "Séisme",
+            "Tunnel",
+            "Fouet Lianes",
+            "Coud'Krâne",
+            "Croc Fatal",
+            "Croc de Mort"
+        ]
+    },
+    {
+        "number": "29",
+        "name": "Nidoran♀",
+        "size": "0.4 m",
+        "weight": "7.0 kg",
+        "statistic": {
+            "hp": 55,
+            "attack": 47,
+            "defense": 52,
+            "special-attack": 40,
+            "special-defense": 40,
+            "speed": 41
+        },
+        "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/029.png",
+        "type": [
+            "Poison"
+        ],
+        "learnset": [
+            "Charge",
+            "Mimi-Queue",
+            "Dard-Nuée",
+            "Furie",
+            "Morsure",
+            "Dard-Nuée",
+            "Toile",
+            "Bomb-Beurk",
+            "Gaz Toxik",
+            "Piqûre",
+            "Double-Dard"
+        ]
+    },
+    {
+        "number": "30",
+        "name": "Nidorina",
+        "size": "0.8 m",
+        "weight": "20.0 kg",
+        "statistic": {
+            "hp": 70,
+            "attack": 62,
+            "defense": 67,
+            "special-attack": 55,
+            "special-defense": 55,
+            "speed": 56
+        },
+        "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/030.png",
+        "type": [
+            "Poison"
+        ],
+        "learnset": [
+            "Charge",
+            "Mimi-Queue",
+            "Dard-Nuée",
+            "Furie",
+            "Morsure",
+            "Dard-Nuée",
+            "Toile",
+            "Bomb-Beurk",
+            "Gaz Toxik",
+            "Piqûre",
+            "Double-Dard"
+        ]
+    },
+    {
+        "number": "31",
+        "name": "Nidoqueen",
+        "size": "1.3 m",
+        "weight": "60.0 kg",
+        "statistic": {
+            "hp": 90,
+            "attack": 92,
+            "defense": 87,
+            "special-attack": 75,
+            "special-defense": 85,
+            "speed": 76
+        },
+        "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/031.png",
+        "type": [
+            "Poison",
+            "Sol"
+        ],
+        "learnset": [
+            "Charge",
+            "Mimi-Queue",
+            "Dard-Nuée",
+            "Furie",
+            "Morsure",
+            "Dard-Nuée",
+            "Toile",
+            "Bomb-Beurk",
+            "Gaz Toxik",
+            "Piqûre",
+            "Double-Dard"
+        ]
+    },
+    {
+        "number": "32",
+        "name": "Nidoran♂",
+        "size": "0.5 m",
+        "weight": "9.0 kg",
+        "statistic": {
+            "hp": 46,
+            "attack": 57,
+            "defense": 40,
+            "special-attack": 40,
+            "special-defense": 40,
+            "speed": 50
+        },
+        "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/032.png",
+        "type": [
+            "Poison"
+        ],
+        "learnset": [
+            "Charge",
+            "Mimi-Queue",
+            "Dard-Nuée",
+            "Furie",
+            "Morsure",
+            "Dard-Nuée",
+            "Toile",
+            "Bomb-Beurk",
+            "Gaz Toxik",
+            "Piqûre",
+            "Double-Dard"
+        ]
+    },
+    {
+        "number": "33",
+        "name": "Nidorino",
+        "size": "0.9 m",
+        "weight": "19.5 kg",
+        "statistic": {
+            "hp": 61,
+            "attack": 72,
+            "defense": 57,
+            "special-attack": 55,
+            "special-defense": 55,
+            "speed": 65
+        },
+        "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/033.png",
+        "type": [
+            "Poison"
+        ],
+        "learnset": [
+            "Charge",
+            "Mimi-Queue",
+            "Dard-Nuée",
+            "Furie",
+            "Morsure",
+            "Dard-Nuée",
+            "Toile",
+            "Bomb-Beurk",
+            "Gaz Toxik",
+            "Piqûre",
+            "Double-Dard"
+        ]
+    },
+    {
+        "number": "34",
+        "name": "Nidoking",
+        "size": "1.4 m",
+        "weight": "62.0 kg",
+        "statistic": {
+            "hp": 81,
+            "attack": 102,
+            "defense": 77,
+            "special-attack": 85,
+            "special-defense": 75,
+            "speed": 85
+        },
+        "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/034.png",
+        "type": [
+            "Poison",
+            "Sol"
+        ],
+        "learnset": [
+            "Charge",
+            "Mimi-Queue",
+            "Dard-Nuée",
+            "Furie",
+            "Morsure",
+            "Dard-Nuée",
+            "Toile",
+            "Bomb-Beurk",
+            "Gaz Toxik",
+            "Piqûre",
+            "Double-Dard"
+        ]
+    },
+    {
+        "number": "35",
+        "name": "Mélofée",
+        "size": "0.6 m",
+        "weight": "7.5 kg",
+        "statistic": {
+            "hp": 70,
+            "attack": 45,
+            "defense": 48,
+            "special-attack": 60,
+            "special-defense": 65,
+            "speed": 35
+        },
+        "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/035.png",
+        "type": [
+            "Fée"
+        ],
+        "learnset": [
+            "Charge",
+            "Rugissement",
+            "Mimi-Queue",
+            "Vive-Attaque",
+            "Furie",
+            "Mimique",
+            "Tonnerre",
+            "Fatal-Foudre",
+            "Cage-Éclair",
+            "Eclair",
+            "Tonnerre",
+            "Fatal-Foudre"
+        ]
+    },
+    {
+        "number": "36",
+        "name": "Mélodelfe",
+        "size": "1.3 m",
+        "weight": "40.0 kg",
+        "statistic": {
+            "hp": 95,
+            "attack": 70,
+            "defense": 73,
+            "special-attack": 95,
+            "special-defense": 90,
+            "speed": 60
+        },
+        "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/036.png",
+        "type": [
+            "Fée"
+        ],
+        "learnset": [
+            "Charge",
+            "Rugissement",
+            "Mimi-Queue",
+            "Vive-Attaque",
+            "Furie",
+            "Mimique",
+            "Tonnerre",
+            "Fatal-Foudre",
+            "Cage-Éclair",
+            "Eclair",
+            "Tonnerre",
+            "Fatal-Foudre"
+        ]
+    },
+    {
+        "number": "37",
+        "name": "Goupix",
+        "size": "0.6 m",
+        "weight": "9.9 kg",
+        "statistic": {
+            "hp": 38,
+            "attack": 41,
+            "defense": 40,
+            "special-attack": 50,
+            "special-defense": 65,
+            "speed": 65
+        },
+        "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/037.png",
+        "type": [
+            "Feu"
+        ],
+        "learnset": [
+            "Griffe",
+            "Flammèche",
+            "Rugissement",
+            "Mimi-Queue",
+            "Vive-Attaque",
+            "Furie",
+            "Danse Flamme",
+            "Tranche",
+            "Repos",
+            "Lance-Flammes",
+            "Déflagration"
+        ]
+    },
+    {
+        "number": "38",
+        "name": "Feunard",
+        "size": "1.1 m",
+        "weight": "19.9 kg",
+        "statistic": {
+            "hp": 73,
+            "attack": 76,
+            "defense": 75,
+            "special-attack": 81,
+            "special-defense": 100,
+            "speed": 100
+        },
+        "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/038.png",
+        "type": [
+            "Feu"
+        ],
+        "learnset": [
+            "Griffe",
+            "Flammèche",
+            "Rugissement",
+            "Mimi-Queue",
+            "Vive-Attaque",
+            "Furie",
+            "Danse Flamme",
+            "Tranche",
+            "Repos",
+            "Lance-Flammes",
+            "Déflagration"
+        ]
+    },
+    {
+        "number": "39",
+        "name": "Rondoudou",
+        "size": "0.5 m",
+        "weight": "5.5 kg",
+        "statistic": {
+            "hp": 115,
+            "attack": 45,
+            "defense": 20,
+            "special-attack": 45,
+            "special-defense": 25,
+            "speed": 20
+        },
+        "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/039.png",
+        "type": [
+            "Normal",
+            "Fée"
+        ],
+        "learnset": [
+            "Charge",
+            "Rugissement",
+            "Mimi-Queue",
+            "Vive-Attaque",
+            "Furie",
+            "Mimique",
+            "Tonnerre",
+            "Fatal-Foudre",
+            "Cage-Éclair",
+            "Eclair",
+            "Tonnerre",
+            "Fatal-Foudre"
+        ]
+    },
+    {
+        "number": "40",
+        "name": "Grodoudou",
+        "size": "1.0 m",
+        "weight": "12.0 kg",
+        "statistic": {
+            "hp": 140,
+            "attack": 70,
+            "defense": 45,
+            "special-attack": 85,
+            "special-defense": 50,
+            "speed": 45
+        },
+        "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/040.png",
+        "type": [
+            "Normal",
+            "Fée"
+        ],
+        "learnset": [
+            "Charge",
+            "Rugissement",
+            "Mimi-Queue",
+            "Vive-Attaque",
+            "Furie",
+            "Mimique",
+            "Tonnerre",
+            "Fatal-Foudre",
+            "Cage-Éclair",
+            "Eclair",
+            "Tonnerre",
+            "Fatal-Foudre"
+        ]
+    },
+    {
+        "number": "41",
+        "name": "Nosferapti",
+        "size": "0.8 m",
+        "weight": "7.5 kg",
+        "statistic": {
+            "hp": 40,
+            "attack": 45,
+            "defense": 35,
+            "special-attack": 30,
+            "special-defense": 40,
+            "speed": 55
+        },
+        "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/041.png",
+        "type": [
+            "Poison",
+            "Vol"
+        ],
+        "learnset": [
+            "Charge",
+            "Mimi-Queue",
+            "Vive-Attaque",
+            "Furie",
+            "Morsure",
+            "Toxik",
+            "Bomb-Beurk",
+            "Gaz Toxik",
+            "Piqûre",
+            "Double-Dard",
+            "Tranch'Air"
+        ]
+    },
+    {
+        "number": "42",
+        "name": "Nosferalto",
+        "size": "1.6 m",
+        "weight": "55.0 kg",
+        "statistic": {
+            "hp": 75,
+            "attack": 80,
+            "defense": 70,
+            "special-attack": 65,
+            "special-defense": 75,
+            "speed": 90
+        },
+        "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/042.png",
+        "type": [
+            "Poison",
+            "Vol"
+        ],
+        "learnset": [
+            "Charge",
+            "Mimi-Queue",
+            "Vive-Attaque",
+            "Furie",
+            "Morsure",
+            "Toxik",
+            "Bomb-Beurk",
+            "Gaz Toxik",
+            "Piqûre",
+            "Double-Dard",
+            "Tranch'Air"
+        ]
+    },
+    {
+        "number": "43",
+        "name": "Mystherbe",
+        "size": "0.5 m",
+        "weight": "5.4 kg",
+        "statistic": {
+            "hp": 45,
+            "attack": 50,
+            "defense": 55,
+            "special-attack": 75,
+            "special-defense": 65,
+            "speed": 30
+        },
+        "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/043.png",
+        "type": [
+            "Plante",
+            "Poison"
+        ],
+        "learnset": [
+            "Charge",
+            "Mimi-Queue",
+            "Vive-Attaque",
+            "Furie",
+            "Morsure",
+            "Toxik",
+            "Bomb-Beurk",
+            "Gaz Toxik",
+            "Piqûre",
+            "Double-Dard",
+            "Tranch'Air"
+        ]
+    },
+    {
+        "number": "44",
+        "name": "Ortide",
+        "size": "0.8 m",
+        "weight": "8.6 kg",
+        "statistic": {
+            "hp": 60,
+            "attack": 65,
+            "defense": 70,
+            "special-attack": 85,
+            "special-defense": 75,
+            "speed": 40
+        },
+        "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/044.png",
+        "type": [
+            "Plante",
+            "Poison"
+        ],
+        "learnset": [
+            "Charge",
+            "Mimi-Queue",
+            "Vive-Attaque",
+            "Furie",
+            "Morsure",
+            "Toxik",
+            "Bomb-Beurk",
+            "Gaz Toxik",
+            "Piqûre",
+            "Double-Dard",
+            "Tranch'Air"
+        ]
+    },
+    {
+        "number": "45",
+        "name": "Rafflesia",
+        "size": "1.2 m",
+        "weight": "18.6 kg",
+        "statistic": {
+            "hp": 75,
+            "attack": 80,
+            "defense": 85,
+            "special-attack": 110,
+            "special-defense": 90,
+            "speed": 50
+        },
+        "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/045.png",
+        "type": [
+            "Plante",
+            "Poison"
+        ],
+        "learnset": [
+            "Charge",
+            "Mimi-Queue",
+            "Vive-Attaque",
+            "Furie",
+            "Morsure",
+            "Toxik",
+            "Bomb-Beurk",
+            "Gaz Toxik",
+            "Piqûre",
+            "Double-Dard",
+            "Tranch'Air"
+        ]
+    },
+    {
+        "number": "46",
+        "name": "Paras",
+        "size": "0.3 m",
+        "weight": "5.4 kg",
+        "statistic": {
+            "hp": 35,
+            "attack": 70,
+            "defense": 55,
+            "special-attack": 45,
+            "special-defense": 55,
+            "speed": 25
+        },
+        "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/046.png",
+        "type": [
+            "Insecte",
+            "Plante"
+        ],
+        "learnset": [
+            "Griffe",
+            "Charge",
+            "Mimi-Queue",
+            "Furie",
+            "Morsure",
+            "Toxik",
+            "Bomb-Beurk",
+            "Gaz Toxik",
+            "Piqûre",
+            "Double-Dard",
+            "Tranch'Air"
+        ]
+    },
+    {
+        "number": "47",
+        "name": "Parasect",
+        "size": "1.0 m",
+        "weight": "29.5 kg",
+        "statistic": {
+            "hp": 60,
+            "attack": 95,
+            "defense": 80,
+            "special-attack": 60,
+            "special-defense": 80,
+            "speed": 30
+        },
+        "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/047.png",
+        "type": [
+            "Insecte",
+            "Plante"
+        ],
+        "learnset": [
+            "Griffe",
+            "Charge",
+            "Mimi-Queue",
+            "Furie",
+            "Morsure",
+            "Toxik",
+            "Bomb-Beurk",
+            "Gaz Toxik",
+            "Piqûre",
+            "Double-Dard",
+            "Tranch'Air"
+        ]
+    },
+    {
+        "number": "48",
+        "name": "Mimitoss",
+        "size": "1.0 m",
+        "weight": "30.0 kg",
+        "statistic": {
+            "hp": 60,
+            "attack": 55,
+            "defense": 50,
+            "special-attack": 40,
+            "special-defense": 55,
+            "speed": 45
+        },
+        "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/048.png",
+        "type": [
+            "Insecte",
+            "Poison"
+        ],
+        "learnset": [
+            "Charge",
+            "Mimi-Queue",
+            "Furie",
+            "Morsure",
+            "Toxik",
+            "Bomb-Beurk",
+            "Gaz Toxik",
+            "Piqûre",
+            "Double-Dard",
+            "Tranch'Air",
+            "Toile"
+        ]
+    },
+    {
+        "number": "49",
+        "name": "Aéromite",
+        "size": "1.5 m",
+        "weight": "12.5 kg",
+        "statistic": {
+            "hp": 70,
+            "attack": 65,
+            "defense": 60,
+            "special-attack": 90,
+            "special-defense": 75,
+            "speed": 90
+        },
+        "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/049.png",
+        "type": [
+            "Insecte",
+            "Poison"
+        ],
+        "learnset": [
+            "Charge",
+            "Mimi-Queue",
+            "Furie",
+            "Morsure",
+            "Toxik",
+            "Bomb-Beurk",
+            "Gaz Toxik",
+            "Piqûre",
+            "Double-Dard",
+            "Tranch'Air",
+            "Toile"
+        ]
+    },
+    {
+        "number": "50",
+        "name": "Taupiqueur",
+        "size": "0.2 m",
+        "weight": "0.8 kg",
+        "statistic": {
+            "hp": 10,
+            "attack": 55,
+            "defense": 25,
+            "special-attack": 35,
+            "special-defense": 45,
+            "speed": 95
+        },
+        "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/050.png",
+        "type": [
+            "Sol"
+        ],
+        "learnset": [
+            "Griffe",
+            "Jet de Sable",
+            "Mimi-Queue",
+            "Furie",
+            "Morsure",
+            "Tunnel",
+            "Séisme",
+            "Tunnel",
+            "Fouet Lianes",
+            "Coud'Krâne",
+            "Croc Fatal",
+            "Croc de Mort"
+        ]
+    },
+    {
+        "number": "51",
+        "name": "Triopikeur",
+        "size": "0.7 m",
+        "weight": "33.3 kg",
+        "statistic": {
+            "hp": 35,
+            "attack": 80,
+            "defense": 50,
+            "special-attack": 50,
+            "special-defense": 70,
+            "speed": 120
+        },
+        "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/051.png",
+        "type": [
+            "Sol"
+        ],
+        "learnset": [
+            "Griffe",
+            "Jet de Sable",
+            "Mimi-Queue",
+            "Furie",
+            "Morsure",
+            "Tunnel",
+            "Séisme",
+            "Tunnel",
+            "Fouet Lianes",
+            "Coud'Krâne",
+            "Croc Fatal",
+            "Croc de Mort"
+        ]
+    },
+    {
+        "number": "52",
+        "name": "Miaouss",
+        "size": "0.4 m",
+        "weight": "4.2 kg",
+        "statistic": {
+            "hp": 40,
+            "attack": 45,
+            "defense": 35,
+            "special-attack": 40,
+            "special-defense": 40,
+            "speed": 90
+        },
+        "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/052.png",
+        "type": [
+            "Normal"
+        ],
+        "learnset": [
+            "Griffe",
+            "Jet de Sable",
+            "Mimi-Queue",
+            "Furie",
+            "Morsure",
+            "Mimique",
+            "Laser Glace",
+            "Blizzard",
+            "Cage-Éclair",
+            "Eclair",
+            "Tonnerre",
+            "Fatal-Foudre"
+        ]
+    },
+    {
+        "number": "53",
+        "name": "Persian",
+        "size": "1.0 m",
+        "weight": "32.0 kg",
+        "statistic": {
+            "hp": 65,
+            "attack": 70,
+            "defense": 60,
+            "special-attack": 65,
+            "special-defense": 65,
+            "speed": 115
+        },
+        "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/053.png",
+        "type": [
+            "Normal"
+        ],
+        "learnset": [
+            "Griffe",
+            "Jet de Sable",
+            "Mimi-Queue",
+            "Furie",
+            "Morsure",
+            "Mimique",
+            "Laser Glace",
+            "Blizzard",
+            "Cage-Éclair",
+            "Eclair",
+            "Tonnerre",
+            "Fatal-Foudre"
+        ]
+    },
+    {
+        "number": "54",
+        "name": "Psykokwak",
+        "size": "0.8 m",
+        "weight": "19.6 kg",
+        "statistic": {
+            "hp": 50,
+            "attack": 52,
+            "defense": 48,
+            "special-attack": 65,
+            "special-defense": 50,
+            "speed": 55
+        },
+        "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/054.png",
+        "type": [
+            "Eau"
+        ],
+        "learnset": [
+            "Charge",
+            "Rugissement",
+            "Mimi-Queue",
+            "Vive-Attaque",
+            "Furie",
+            "Mimique",
+            "Hydrocanon",
+            "Surf",
+            "Cage-Éclair",
+            "Eclair",
+            "Tonnerre",
+            "Fatal-Foudre"
+        ]
+    },
+    {
+        "number": "55",
+        "name": "Akwakwak",
+        "size": "1.7 m",
+        "weight": "76.6 kg",
+        "statistic": {
+            "hp": 80,
+            "attack": 82,
+            "defense": 78,
+            "special-attack": 95,
+            "special-defense": 80,
+            "speed": 85
+        },
+        "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/055.png",
+        "type": [
+            "Eau"
+        ],
+        "learnset": [
+            "Charge",
+            "Rugissement",
+            "Mimi-Queue",
+            "Vive-Attaque",
+            "Furie",
+            "Mimique",
+            "Hydrocanon",
+            "Surf",
+            "Cage-Éclair",
+            "Eclair",
+            "Tonnerre",
+            "Fatal-Foudre"
+        ]
+    },
+    {
+        "number": "56",
+        "name": "Férosinge",
+        "size": "0.5 m",
+        "weight": "28.0 kg",
+        "statistic": {
+            "hp": 40,
+            "attack": 80,
+            "defense": 35,
+            "special-attack": 35,
+            "special-defense": 45,
+            "speed": 70
+        },
+        "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/056.png",
+        "type": [
+            "Combat"
+        ],
+        "learnset": [
+            "Griffe",
+            "Jet de Sable",
+            "Mimi-Queue",
+            "Furie",
+            "Morsure",
+            "Mimique",
+            "Poing-Karaté",
+            "Poing-Comète",
+            "Poing-Glace",
+            "Poing-Feu",
+            "Poing-Eclair",
+            "Poing de Feu",
+            "Poing-Glace",
+            "Poing-Éclair",
+            "Poing-Karaté",
+            "Poing-Comète"
+        ]
+    },
+    {
+        "number": "57",
+        "name": "Colossinge",
+        "size": "1.0 m",
+        "weight": "32.0 kg",
+        "statistic": {
+            "hp": 65,
+            "attack": 105,
+            "defense": 60,
+            "special-attack": 60,
+            "special-defense": 70,
+            "speed": 95
+        },
+        "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/057.png",
+        "type": [
+            "Combat"
+        ],
+        "learnset": [
+            "Griffe",
+            "Jet de Sable",
+            "Mimi-Queue",
+            "Furie",
+            "Morsure",
+            "Mimique",
+            "Poing-Karaté",
+            "Poing-Comète",
+            "Poing-Glace",
+            "Poing-Feu",
+            "Poing-Eclair",
+            "Poing de Feu",
+            "Poing-Glace",
+            "Poing-Éclair",
+            "Poing-Karaté",
+            "Poing-Comète"
+        ]
+    },
+    {
+        "number": "58",
+        "name": "Caninos",
+        "size": "0.7 m",
+        "weight": "19.0 kg",
+        "statistic": {
+            "hp": 55,
+            "attack": 70,
+            "defense": 45,
+            "special-attack": 70,
+            "special-defense": 50,
+            "speed": 60
+        },
+        "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/058.png",
+        "type": [
+            "Feu"
+        ],
+        "learnset": [
+            "Griffe",
+            "Flammèche",
+            "Rugissement",
+            "Mimi-Queue",
+            "Vive-Attaque",
+            "Furie",
+            "Danse Flamme",
+            "Tranche",
+            "Repos",
+            "Lance-Flammes",
+            "Déflagration"
+        ]
+    },
+    {
+        "number": "59",
+        "name": "Arcanin",
+        "size": "1.9 m",
+        "weight": "155.0 kg",
+        "statistic": {
+            "hp": 90,
+            "attack": 110,
+            "defense": 80,
+            "special-attack": 100,
+            "special-defense": 80,
+            "speed": 95
+        },
+        "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/059.png",
+        "type": [
+            "Feu"
+        ],
+        "learnset": [
+            "Griffe",
+            "Flammèche",
+            "Rugissement",
+            "Mimi-Queue",
+            "Vive-Attaque",
+            "Furie",
+            "Danse Flamme",
+            "Tranche",
+            "Repos",
+            "Lance-Flammes",
+            "Déflagration"
+        ]
+    },
+    {
+        "number": "60",
+        "name": "Ptitard",
+        "size": "0.6 m",
+        "weight": "12.4 kg",
+        "statistic": {
+            "hp": 40,
+            "attack": 50,
+            "defense": 40,
+            "special-attack": 40,
+            "special-defense": 40,
+            "speed": 90
+        },
+        "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/060.png",
+        "type": [
+            "Eau"
+        ],
+        "learnset": [
+            "Charge",
+            "Rugissement",
+            "Mimi-Queue",
+            "Vive-Attaque",
+            "Bulles d'O",
+            "Hydrocanon",
+            "Surf",
+            "Cage-Éclair",
+            "Eclair",
+            "Tonnerre",
+            "Fatal-Foudre"
+        ]
+    },
+    {
+        "number": "61",
+        "name": "Têtarte",
+        "size": "1.0 m",
+        "weight": "20.0 kg",
+        "statistic": {
+            "hp": 65,
+            "attack": 65,
+            "defense": 65,
+            "special-attack": 50,
+            "special-defense": 50,
+            "speed": 90
+        },
+        "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/061.png",
+        "type": [
+            "Eau"
+        ],
+        "learnset": [
+            "Charge",
+            "Rugissement",
+            "Mimi-Queue",
+            "Vive-Attaque",
+            "Bulles d'O",
+            "Hydrocanon",
+            "Surf",
+            "Cage-Éclair",
+            "Eclair",
+            "Tonnerre",
+            "Fatal-Foudre"
+        ]
+    },
+    {
+        "number": "62",
+        "name": "Tartard",
+        "size": "1.3 m",
+        "weight": "54.0 kg",
+        "statistic": {
+            "hp": 90,
+            "attack": 95,
+            "defense": 95,
+            "special-attack": 70,
+            "special-defense": 90,
+            "speed": 70
+        },
+        "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/062.png",
+        "type": [
+            "Eau"
+        ],
+        "learnset": [
+            "Charge",
+            "Rugissement",
+            "Mimi-Queue",
+            "Vive-Attaque",
+            "Bulles d'O",
+            "Hydrocanon",
+            "Surf",
+            "Cage-Éclair",
+            "Eclair",
+            "Tonnerre",
+            "Fatal-Foudre"
+        ]
+    },
+    {
+        "number": "63",
+        "name": "Abra",
+        "size": "0.9 m",
+        "weight": "19.5 kg",
+        "statistic": {
+            "hp": 25,
+            "attack": 20,
+            "defense": 15,
+            "special-attack": 105,
+            "special-defense": 55,
+            "speed": 90
+        },
+        "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/063.png",
+        "type": [
+            "Psy"
+        ],
+        "learnset": [
+            "Charge",
+            "Rugissement",
+            "Mimi-Queue",
+            "Vive-Attaque",
+            "Bulles d'O",
+            "Hydrocanon",
+            "Surf",
+            "Cage-Éclair",
+            "Eclair",
+            "Tonnerre",
+            "Fatal-Foudre"
+        ]
+    },
+    {
+        "number": "64",
+        "name": "Kadabra",
+        "size": "1.3 m",
+        "weight": "56.5 kg",
+        "statistic": {
+            "hp": 40,
+            "attack": 35,
+            "defense": 30,
+            "special-attack": 120,
+            "special-defense": 70,
+            "speed": 105
+        },
+        "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/064.png",
+        "type": [
+            "Psy"
+        ],
+        "learnset": [
+            "Charge",
+            "Rugissement",
+            "Mimi-Queue",
+            "Vive-Attaque",
+            "Bulles d'O",
+            "Hydrocanon",
+            "Surf",
+            "Cage-Éclair",
+            "Eclair",
+            "Tonnerre",
+            "Fatal-Foudre"
+        ]
+    },
+    {
+        "number": "65",
+        "name": "Alakazam",
+        "size": "1.5 m",
+        "weight": "48.0 kg",
+        "statistic": {
+            "hp": 55,
+            "attack": 50,
+            "defense": 45,
+            "special-attack": 135,
+            "special-defense": 95,
+            "speed": 120
+        },
+        "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/065.png",
+        "type": [
+            "Psy"
+        ],
+        "learnset": [
+            "Charge",
+            "Rugissement",
+            "Mimi-Queue",
+            "Vive-Attaque",
+            "Bulles d'O",
+            "Hydrocanon",
+            "Surf",
+            "Cage-Éclair",
+            "Eclair",
+            "Tonnerre",
+            "Fatal-Foudre"
+        ]
+    },
+    {
+        "number": "66",
+        "name": "Machoc",
+        "size": "0.8 m",
+        "weight": "19.5 kg",
+        "statistic": {
+            "hp": 70,
+            "attack": 80,
+            "defense": 50,
+            "special-attack": 35,
+            "special-defense": 35,
+            "speed": 35
+        },
+        "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/066.png",
+        "type": [
+            "Combat"
+        ],
+        "learnset": [
+            "Griffe",
+            "Jet de Sable",
+            "Mimi-Queue",
+            "Furie",
+            "Poing-Karaté",
+            "Poing-Comète",
+            "Poing-Glace",
+            "Poing-Feu",
+            "Poing-Eclair",
+            "Poing de Feu",
+            "Poing-Glace",
+            "Poing-Éclair",
+            "Poing-Karaté",
+            "Poing-Comète"
+        ]
+    },
+    {
+        "number": "67",
+        "name": "Machopeur",
+        "size": "1.5 m",
+        "weight": "70.5 kg",
+        "statistic": {
+            "hp": 80,
+            "attack": 100,
+            "defense": 70,
+            "special-attack": 50,
+            "special-defense": 60,
+            "speed": 45
+        },
+        "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/067.png",
+        "type": [
+            "Combat"
+        ],
+        "learnset": [
+            "Griffe",
+            "Jet de Sable",
+            "Mimi-Queue",
+            "Furie",
+            "Poing-Karaté",
+            "Poing-Comète",
+            "Poing-Glace",
+            "Poing-Feu",
+            "Poing-Eclair"
+        ]
+    },
+    {
+        "number": "68",
+        "name": "Mackogneur",
+        "size": "1.6 m",
+        "weight": "130.0 kg",
+        "statistic": {
+            "hp": 90,
+            "attack": 130,
+            "defense": 80,
+            "special-attack": 65,
+            "special-defense": 85,
+            "speed": 55
+        },
+        "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/068.png",
+        "type": [
+            "Combat"
+        ],
+        "learnset": [
+            "Griffe",
+            "Jet de Sable",
+            "Mimi-Queue",
+            "Furie",
+            "Poing-Karaté",
+            "Poing-Comète",
+            "Poing-Glace",
+            "Poing-Feu",
+            "Poing-Eclair"
+        ]
+    },
+    {
+        "number": "69",
+        "name": "Chétiflor",
+        "size": "0.7 m",
+        "weight": "6.4 kg",
+        "statistic": {
+            "hp": 50,
+            "attack": 75,
+            "defense": 35,
+            "special-attack": 70,
+            "special-defense": 30,
+            "speed": 40
+        },
+        "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/069.png",
+        "type": [
+            "Plante",
+            "Poison"
+        ],
+        "learnset": [
+            "Charge",
+            "Mimi-Queue",
+            "Furie",
+            "Morsure",
+            "Toxik",
+            "Bomb-Beurk",
+            "Gaz Toxik",
+            "Poudre Dodo",
+            "Poudre Toxik",
+            "Poudre Dodo",
+            "Poudre Toxik",
+            "Tranch'Herbe"
+        ]
+    },
+    {
+        "number": "70",
+        "name": "Boustiflor",
+        "size": "1.0 m",
+        "weight": "15.5 kg",
+        "statistic": {
+            "hp": 65,
+            "attack": 90,
+            "defense": 50,
+            "special-attack": 85,
+            "special-defense": 45,
+            "speed": 55
+        },
+        "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/070.png",
+        "type": [
+            "Plante",
+            "Poison"
+        ],
+        "learnset": [
+            "Charge",
+            "Mimi-Queue",
+            "Furie",
+            "Morsure",
+            "Toxik",
+            "Bomb-Beurk",
+            "Gaz Toxik",
+            "Poudre Dodo",
+            "Poudre Toxik",
+            "Poudre Dodo",
+            "Poudre Toxik",
+            "Tranch'Herbe"
+        ]
+    },
+    {
+        "number": "71",
+        "name": "Empiflor",
+        "size": "1.7 m",
+        "weight": "18.6 kg",
+        "statistic": {
+            "hp": 80,
+            "attack": 105,
+            "defense": 65,
+            "special-attack": 100,
+            "special-defense": 70,
+            "speed": 70
+        },
+        "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/071.png",
+        "type": [
+            "Plante",
+            "Poison"
+        ],
+        "learnset": [
+            "Charge",
+            "Mimi-Queue",
+            "Furie",
+            "Morsure",
+            "Toxik",
+            "Bomb-Beurk",
+            "Gaz Toxik",
+            "Poudre Dodo",
+            "Poudre Toxik",
+            "Poudre Dodo",
+            "Poudre Toxik",
+            "Tranch'Herbe"
+        ]
+    },
+    {
+        "number": "72",
+        "name": "Tentacool",
+        "size": "0.9 m",
+        "weight": "45.5 kg",
+        "statistic": {
+            "hp": 40,
+            "attack": 40,
+            "defense": 35,
+            "special-attack": 50,
+            "special-defense": 100,
+            "speed": 70
+        },
+        "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/072.png",
+        "type": [
+            "Eau",
+            "Poison"
+        ],
+        "learnset": [
+            "Charge",
+            "Mimi-Queue",
+            "Vive-Attaque",
+            "Bulles d'O",
+            "Hydrocanon",
+            "Surf",
+            "Pistolet à O",
+            "Laser Glace",
+            "Blizzard",
+            "Cage-Éclair",
+            "Eclair",
+            "Tonnerre",
+            "Fatal-Foudre"
+        ]
+    },
+    {
+        "number": "73",
+        "name": "Tentacruel",
+        "size": "1.6 m",
+        "weight": "55.0 kg",
+        "statistic": {
+            "hp": 80,
+            "attack": 70,
+            "defense": 65,
+            "special-attack": 80,
+            "special-defense": 120,
+            "speed": 100
+        },
+        "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/073.png",
+        "type": [
+            "Eau",
+            "Poison"
+        ],
+        "learnset": [
+            "Charge",
+            "Mimi-Queue",
+            "Vive-Attaque",
+            "Bulles d'O",
+            "Hydrocanon",
+            "Surf",
+            "Pistolet à O",
+            "Laser Glace",
+            "Blizzard",
+            "Cage-Éclair",
+            "Eclair",
+            "Tonnerre",
+            "Fatal-Foudre"
+        ]
+    },
+    {
+        "number": "74",
+        "name": "Racaillou",
+        "size": "0.4 m",
+        "weight": "20.0 kg",
+        "statistic": {
+            "hp": 40,
+            "attack": 80,
+            "defense": 100,
+            "special-attack": 30,
+            "special-defense": 30,
+            "speed": 20
+        },
+        "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/074.png",
+        "type": [
+            "Roche",
+            "Sol"
+        ],
+        "learnset": [
+            "Charge",
+            "Jet de Sable",
+            "Mimi-Queue",
+            "Furie",
+            "Roulade",
+            "Racines",
+            "Séisme",
+            "Roulade",
+            "Racines",
+            "Séisme",
+            "Roulade",
+            "Racines",
+            "Séisme",
+            "Explosion"
+        ]
+    },
+    {
+        "number": "75",
+        "name": "Gravalanch",
+        "size": "1.0 m",
+        "weight": "105.0 kg",
+        "statistic": {
+            "hp": 55,
+            "attack": 95,
+            "defense": 115,
+            "special-attack": 45,
+            "special-defense": 45,
+            "speed": 35
+        },
+        "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/075.png",
+        "type": [
+            "Roche",
+            "Sol"
+        ],
+        "learnset": [
+            "Charge",
+            "Jet de Sable",
+            "Mimi-Queue",
+            "Furie",
+            "Roulade",
+            "Racines",
+            "Séisme",
+            "Roulade"
+        ]
+    },
+    {
+        "number": "76",
+        "name": "Grolem",
+        "size": "1.4 m",
+        "weight": "300.0 kg",
+        "statistic": {
+            "hp": 80,
+            "attack": 120,
+            "defense": 130,
+            "special-attack": 55,
+            "special-defense": 65,
+            "speed": 45
+        },
+        "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/076.png",
+        "type": [
+            "Roche",
+            "Sol"
+        ],
+        "learnset": [
+            "Charge",
+            "Jet de Sable",
+            "Mimi-Queue",
+            "Furie",
+            "Roulade",
+            "Racines",
+            "Séisme",
+            "Roulade"
+        ]
+    },
+    {
+        "number": "77",
+        "name": "Ponyta",
+        "size": "1.0 m",
+        "weight": "30.0 kg",
+        "statistic": {
+            "hp": 50,
+            "attack": 85,
+            "defense": 55,
+            "special-attack": 65,
+            "special-defense": 65,
+            "speed": 90
+        },
+        "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/077.png",
+        "type": [
+            "Feu"
+        ],
+        "learnset": [
+            "Charge",
+            "Mimi-Queue",
+            "Vive-Attaque",
+            "Furie",
+            "Mimique",
+            "Danse Flamme",
+            "Tranche",
+            "Repos",
+            "Lance-Flammes",
+            "Déflagration"
+        ]
+    },
+    {
+        "number": "78",
+        "name": "Galopa",
+        "size": "1.7 m",
+        "weight": "95.0 kg",
+        "statistic": {
+            "hp": 65,
+            "attack": 100,
+            "defense": 70,
+            "special-attack": 80,
+            "special-defense": 80,
+            "speed": 105
+        },
+        "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/078.png",
+        "type": [
+            "Feu"
+        ],
+        "learnset": [
+            "Charge",
+            "Mimi-Queue",
+            "Vive-Attaque",
+            "Furie",
+            "Mimique",
+            "Danse Flamme",
+            "Tranche",
+            "Repos",
+            "Lance-Flammes",
+            "Déflagration"
+        ]
+    },
+    {
+        "number": "79",
+        "name": "Ramoloss",
+        "size": "1.2 m",
+        "weight": "36.0 kg",
+        "statistic": {
+            "hp": 90,
+            "attack": 65,
+            "defense": 65,
+            "special-attack": 40,
+            "special-defense": 40,
+            "speed": 15
+        },
+        "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/079.png",
+        "type": [
+            "Eau",
+            "Psy"
+        ],
+        "learnset": [
+            "Charge",
+            "Mimi-Queue",
+            "Vive-Attaque",
+            "Bulles d'O",
+            "Hydrocanon",
+            "Surf",
+            "Pistolet à O",
+            "Laser Glace",
+            "Blizzard",
+            "Cage-Éclair",
+            "Eclair",
+            "Tonnerre",
+            "Fatal-Foudre",
+            "Amnésie",
+            "Psyko",
+            "Téléport"
+        ]
+    },
+    {
+        "number": "80",
+        "name": "Flagadoss",
+        "size": "1.6 m",
+        "weight": "78.5 kg",
+        "statistic": {
+            "hp": 95,
+            "attack": 75,
+            "defense": 110,
+            "special-attack": 100,
+            "special-defense": 80,
+            "speed": 30
+        },
+        "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/080.png",
+        "type": [
+            "Eau",
+            "Psy"
+        ],
+        "learnset": [
+            "Charge",
+            "Mimi-Queue",
+            "Vive-Attaque",
+            "Bulles d'O",
+            "Hydrocanon",
+            "Surf",
+            "Pistolet à O",
+            "Laser Glace",
+            "Blizzard",
+            "Cage-Éclair",
+            "Eclair",
+            "Tonnerre",
+            "Fatal-Foudre",
+            "Amnésie",
+            "Psyko",
+            "Téléport"
+        ]
+    },
+    {
+        "number": "81",
+        "name": "Magnéti",
+        "size": "0.3 m",
+        "weight": "6.0 kg",
+        "statistic": {
+            "hp": 25,
+            "attack": 35,
+            "defense": 70,
+            "special-attack": 95,
+            "special-defense": 55,
+            "speed": 45
+        },
+        "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/081.png",
+        "type": [
+            "Électrik",
+            "Acier"
+        ],
+        "learnset": [
+            "Charge",
+            "Mimi-Queue",
+            "Vive-Attaque",
+            "Cage-Éclair",
+            "Eclair",
+            "Tonnerre",
+            "Fatal-Foudre",
+            "Psyko",
+            "Téléport",
+            "Mur Lumière",
+            "Protection",
+            "Mur de Fer",
+            "Tonnerre",
+            "Fatal-Foudre",
+            "Psyko",
+            "Téléport"
+        ]
+    },
+    {
+        "number": "82",
+        "name": "Magnéton",
+        "size": "1.0 m",
+        "weight": "60.0 kg",
+        "statistic": {
+            "hp": 50,
+            "attack": 60,
+            "defense": 95,
+            "special-attack": 120,
+            "special-defense": 70,
+            "speed": 70
+        },
+        "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/082.png",
+        "type": [
+            "Électrik",
+            "Acier"
+        ],
+        "learnset": [
+            "Charge",
+            "Mimi-Queue",
+            "Vive-Attaque",
+            "Cage-Éclair",
+            "Eclair",
+            "Tonnerre",
+            "Fatal-Foudre",
+            "Psyko",
+            "Téléport",
+            "Mur Lumière",
+            "Protection",
+            "Mur de Fer"
+        ]
+    },
+    {
+        "number": "83",
+        "name": "Canarticho",
+        "size": "0.8 m",
+        "weight": "15.0 kg",
+        "statistic": {
+            "hp": 52,
+            "attack": 65,
+            "defense": 55,
+            "special-attack": 58,
+            "special-defense": 62,
+            "speed": 60
+        },
+        "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/083.png",
+        "type": [
+            "Normal",
+            "Vol"
+        ],
+        "learnset": [
+            "Griffe",
+            "Jet de Sable",
+            "Mimi-Queue",
+            "Vive-Attaque",
+            "Furie",
+            "Mimique",
+            "Laser Glace",
+            "Blizzard",
+            "Cage-Éclair",
+            "Eclair",
+            "Tonnerre",
+            "Fatal-Foudre",
+            "Tranch'Air",
+            "Tornade",
+            "Cru-Aile"
+        ]
+    },
+    {
+        "number": "84",
+        "name": "Doduo",
+        "size": "1.4 m",
+        "weight": "39.2 kg",
+        "statistic": {
+            "hp": 35,
+            "attack": 85,
+            "defense": 45,
+            "special-attack": 35,
+            "special-defense": 35,
+            "speed": 75
+        },
+        "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/084.png",
+        "type": [
+            "Normal",
+            "Vol"
+        ],
+        "learnset": [
+            "Griffe",
+            "Jet de Sable",
+            "Vive-Attaque",
+            "Furie",
+            "Mimique",
+            "Laser Glace",
+            "Blizzard",
+            "Cage-Éclair",
+            "Eclair",
+            "Tonnerre",
+            "Fatal-Foudre",
+            "Tranch'Air",
+            "Tornade",
+            "Cru-Aile"
+        ]
+    },
+    {
+        "number": "85",
+        "name": "Dodrio",
+        "size": "1.8 m",
+        "weight": "85.2 kg",
+        "statistic": {
+            "hp": 60,
+            "attack": 110,
+            "defense": 70,
+            "special-attack": 60,
+            "special-defense": 60,
+            "speed": 110
+        },
+        "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/085.png",
+        "type": [
+            "Normal",
+            "Vol"
+        ],
+        "learnset": [
+            "Griffe",
+            "Jet de Sable",
+            "Vive-Attaque",
+            "Furie",
+            "Mimique",
+            "Laser Glace",
+            "Blizzard",
+            "Cage-Éclair",
+            "Eclair",
+            "Tonnerre",
+            "Fatal-Foudre",
+            "Tranch'Air",
+            "Tornade",
+            "Cru-Aile"
+        ]
+    },
+    {
+        "number": "86",
+        "name": "Otaria",
+        "size": "1.1 m",
+        "weight": "90.0 kg",
+        "statistic": {
+            "hp": 65,
+            "attack": 45,
+            "defense": 55,
+            "special-attack": 45,
+            "special-defense": 70,
+            "speed": 45
+        },
+        "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/086.png",
+        "type": [
+            "Eau"
+        ],
+        "learnset": [
+            "Charge",
+            "Mimi-Queue",
+            "Vive-Attaque",
+            "Furie",
+            "Morsure",
+            "Mimique",
+            "Hydrocanon",
+            "Surf",
+            "Cage-Éclair",
+            "Eclair",
+            "Tonnerre",
+            "Fatal-Foudre",
+            "Amnésie",
+            "Psyko",
+            "Téléport"
+        ]
+    },
+    {
+        "number": "87",
+        "name": "Lamantine",
+        "size": "1.7 m",
+        "weight": "120.0 kg",
+        "statistic": {
+            "hp": 90,
+            "attack": 70,
+            "defense": 80,
+            "special-attack": 70,
+            "special-defense": 95,
+            "speed": 70
+        },
+        "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/087.png",
+        "type": [
+            "Eau",
+            "Glace"
+        ],
+        "learnset": [
+            "Charge",
+            "Mimi-Queue",
+            "Vive-Attaque",
+            "Furie",
+            "Morsure",
+            "Mimique",
+            "Hydrocanon",
+            "Surf",
+            "Cage-Éclair",
+            "Eclair",
+            "Tonnerre",
+            "Fatal-Foudre",
+            "Amnésie",
+            "Psyko",
+            "Téléport"
+        ]
+    },
+    {
+        "number": "88",
+        "name": "Tadmorv",
+        "size": "0.9 m",
+        "weight": "30.0 kg",
+        "statistic": {
+            "hp": 80,
+            "attack": 80,
+            "defense": 50,
+            "special-attack": 40,
+            "special-defense": 50,
+            "speed": 25
+        },
+        "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/088.png",
+        "type": [
+            "Poison"
+        ],
+        "learnset": [
+            "Charge",
+            "Mimi-Queue",
+            "Vive-Attaque",
+            "Toxik",
+            "Bomb-Beurk",
+            "Gaz Toxik",
+            "Poudre Dodo",
+            "Poudre Toxik",
+            "Poudre Dodo",
+            "Poudre Toxik",
+            "Acidarmure",
+            "Acide",
+            "Bomb-Beurk",
+            "Gaz Toxik"
+        ]
+    },
+    {
+        "number": "89",
+        "name": "Grotadmorv",
+        "size": "1.2 m",
+        "weight": "30.0 kg",
+        "statistic": {
+            "hp": 105,
+            "attack": 105,
+            "defense": 75,
+            "special-attack": 65,
+            "special-defense": 100,
+            "speed": 50
+        },
+        "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/089.png",
+        "type": [
+            "Poison"
+        ],
+        "learnset": [
+            "Charge",
+            "Mimi-Queue",
+            "Vive-Attaque",
+            "Toxik",
+            "Bomb-Beurk",
+            "Gaz Toxik",
+            "Poudre Dodo",
+            "Poudre Toxik",
+            "Poudre Dodo",
+            "Poudre Toxik",
+            "Acidarmure",
+            "Acide",
+            "Bomb-Beurk",
+            "Gaz Toxik"
+        ]
+    },
+    {
+        "number": "90",
+        "name": "Kokiyas",
+        "size": "0.3 m",
+        "weight": "4.0 kg",
+        "statistic": {
+            "hp": 30,
+            "attack": 65,
+            "defense": 100,
+            "special-attack": 45,
+            "special-defense": 25,
+            "speed": 40
+        },
+        "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/090.png",
+        "type": [
+            "Eau"
+        ],
+        "learnset": [
+            "Charge",
+            "Mimi-Queue",
+            "Vive-Attaque",
+            "Morsure",
+            "Mimique",
+            "Hydrocanon",
+            "Surf",
+            "Pistolet à O",
+            "Laser Glace",
+            "Blizzard",
+            "Cage-Éclair",
+            "Eclair",
+            "Tonnerre",
+            "Fatal-Foudre"
+        ]
+    },
+    {
+        "number": "91",
+        "name": "Crustabri",
+        "size": "1.5 m",
+        "weight": "60.0 kg",
+        "statistic": {
+            "hp": 50,
+            "attack": 95,
+            "defense": 180,
+            "special-attack": 85,
+            "special-defense": 45,
+            "speed": 70
+        },
+        "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/091.png",
+        "type": [
+            "Eau",
+            "Glace"
+        ],
+        "learnset": [
+            "Charge",
+            "Mimi-Queue",
+            "Vive-Attaque",
+            "Morsure",
+            "Mimique",
+            "Hydrocanon",
+            "Surf",
+            "Pistolet à O",
+            "Laser Glace",
+            "Blizzard",
+            "Cage-Éclair",
+            "Eclair",
+            "Tonnerre",
+            "Fatal-Foudre"
+        ]
+    },
+    {
+        "number": "92",
+        "name": "Fantominus",
+        "size": "1.3 m",
+        "weight": "0.1 kg",
+        "statistic": {
+            "hp": 30,
+            "attack": 35,
+            "defense": 30,
+            "special-attack": 100,
+            "special-defense": 35,
+            "speed": 80
+        },
+        "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/092.png",
+        "type": [
+            "Spectre",
+            "Poison"
+        ],
+        "learnset": [
+            "Charge",
+            "Mimi-Queue",
+            "Vive-Attaque",
+            "Morsure",
+            "Mimique",
+            "Laser Glace",
+            "Blizzard",
+            "Cage-Éclair",
+            "Eclair",
+            "Tonnerre",
+            "Fatal-Foudre",
+            "Psyko",
+            "Téléport",
+            "Hypnose",
+            "Cauchemar"
+        ]
+    },
+    {
+        "number": "93",
+        "name": "Spectrum",
+        "size": "1.6 m",
+        "weight": "0.1 kg",
+        "statistic": {
+            "hp": 45,
+            "attack": 50,
+            "defense": 45,
+            "special-attack": 115,
+            "special-defense": 55,
+            "speed": 95
+        },
+        "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/093.png",
+        "type": [
+            "Spectre",
+            "Poison"
+        ],
+        "learnset": [
+            "Charge",
+            "Mimi-Queue",
+            "Vive-Attaque",
+            "Morsure",
+            "Mimique",
+            "Laser Glace",
+            "Blizzard",
+            "Cage-Éclair",
+            "Eclair",
+            "Tonnerre",
+            "Fatal-Foudre",
+            "Psyko",
+            "Téléport",
+            "Hypnose",
+            "Cauchemar"
+        ]
+    },
+    {
+        "number": "94",
+        "name": "Ectoplasma",
+        "size": "1.5 m",
+        "weight": "40.5 kg",
+        "statistic": {
+            "hp": 60,
+            "attack": 65,
+            "defense": 60,
+            "special-attack": 130,
+            "special-defense": 75,
+            "speed": 110
+        },
+        "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/094.png",
+        "type": [
+            "Spectre",
+            "Poison"
+        ],
+        "learnset": [
+            "Charge",
+            "Mimi-Queue",
+            "Vive-Attaque",
+            "Morsure",
+            "Mimique",
+            "Laser Glace",
+            "Blizzard",
+            "Cage-Éclair",
+            "Eclair",
+            "Tonnerre",
+            "Fatal-Foudre",
+            "Psyko",
+            "Téléport",
+            "Hypnose",
+            "Cauchemar"
+        ]
+    },
+    {
+        "number": "95",
+        "name": "Onix",
+        "size": "8.8 m",
+        "weight": "210.0 kg",
+        "statistic": {
+            "hp": 35,
+            "attack": 45,
+            "defense": 160,
+            "special-attack": 30,
+            "special-defense": 45,
+            "speed": 70
+        },
+        "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/095.png",
+        "type": [
+            "Roche",
+            "Sol"
+        ],
+        "learnset": [
+            "Charge",
+            "Jet de Sable",
+            "Mimi-Queue",
+            "Furie",
+            "Roulade",
+            "Racines",
+            "Séisme",
+            "Roulade",
+            "Racines",
+            "Séisme",
+            "Roulade",
+            "Racines",
+            "Séisme",
+            "Explosion"
+        ]
+    },
+    {
+        "number": "96",
+        "name": "Soporifik",
+        "size": "1.0 m",
+        "weight": "32.4 kg",
+        "statistic": {
+            "hp": 60,
+            "attack": 48,
+            "defense": 45,
+            "special-attack": 43,
+            "special-defense": 90,
+            "speed": 42
+        },
+        "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/096.png",
+        "type": [
+            "Psy"
+        ],
+        "learnset": [
+            "Charge",
+            "Mimi-Queue",
+            "Vive-Attaque",
+            "Bulles d'O",
+            "Hydrocanon",
+            "Surf",
+            "Cage-Éclair",
+            "Eclair",
+            "Fatal-Foudre",
+            "Psyko",
+            "Téléport",
+            "Hypnose",
+            "Cauchemar"
+        ]
+    },
+    {
+        "number": "97",
+        "name": "Hypnomade",
+        "size": "1.6 m",
+        "weight": "75.6 kg",
+        "statistic": {
+            "hp": 85,
+            "attack": 73,
+            "defense": 70,
+            "special-attack": 73,
+            "special-defense": 115,
+            "speed": 67
+        },
+        "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/097.png",
+        "type": [
+            "Psy"
+        ],
+        "learnset": [
+            "Charge",
+            "Mimi-Queue",
+            "Vive-Attaque",
+            "Bulles d'O",
+            "Hydrocanon",
+            "Surf",
+            "Cage-Éclair",
+            "Eclair",
+            "Fatal-Foudre",
+            "Psyko",
+            "Téléport",
+            "Hypnose",
+            "Cauchemar"
+        ]
+    },
+    {
+        "number": "98",
+        "name": "Krabby",
+        "size": "0.4 m",
+        "weight": "6.5 kg",
+        "statistic": {
+            "hp": 30,
+            "attack": 105,
+            "defense": 90,
+            "special-attack": 25,
+            "special-defense": 25,
+            "speed": 50
+        },
+        "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/098.png",
+        "type": [
+            "Eau"
+        ],
+        "learnset": [
+            "Charge",
+            "Mimi-Queue",
+            "Vive-Attaque",
+            "Morsure",
+            "Mimique",
+            "Hydrocanon",
+            "Surf",
+            "Pistolet à O",
+            "Laser Glace",
+            "Blizzard",
+            "Cage-Éclair",
+            "Eclair",
+            "Fatal-Foudre"
+        ]
+    },
+    {
+        "number": "99",
+        "name": "Krabboss",
+        "size": "1.3 m",
+        "weight": "60.0 kg",
+        "statistic": {
+            "hp": 55,
+            "attack": 130,
+            "defense": 115,
+            "special-attack": 50,
+            "special-defense": 50,
+            "speed": 75
+        },
+        "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/099.png",
+        "type": [
+            "Eau"
+        ],
+        "learnset": [
+            "Charge",
+            "Mimi-Queue",
+            "Vive-Attaque",
+            "Morsure",
+            "Mimique",
+            "Hydrocanon",
+            "Surf",
+            "Pistolet à O",
+            "Laser Glace",
+            "Blizzard",
+            "Cage-Éclair",
+            "Eclair",
+            "Fatal-Foudre"
+        ]
+    },
+    {
+        "number": "100",
+        "name": "Voltorbe",
+        "size": "0.5 m",
+        "weight": "10.4 kg",
+        "statistic": {
+            "hp": 40,
+            "attack": 30,
+            "defense": 50,
+            "special-attack": 55,
+            "special-defense": 55,
+            "speed": 100
+        },
+        "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/100.png",
+        "type": [
+            "Électrik"
+        ],
+        "learnset": [
+            "Charge",
+            "Mimi-Queue",
+            "Vive-Attaque",
+            "Cage-Éclair",
+            "Eclair",
+            "Fatal-Foudre",
+            "Psyko",
+            "Téléport",
+            "Mur Lumière",
+            "Protection",
+            "Mur de Fer",
+            "Tonnerre",
+            "Fatal-Foudre",
+            "Psyko",
+            "Téléport"
+        ]
+    },
+    {
+        "number": "101",
+        "name": "Électrode",
+        "size": "1.2 m",
+        "weight": "66.6 kg",
+        "statistic": {
+            "hp": 60,
+            "attack": 50,
+            "defense": 70,
+            "special-attack": 80,
+            "special-defense": 80,
+            "speed": 150
+        },
+        "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/101.png",
+        "type": [
+            "Électrik"
+        ],
+        "learnset": [
+            "Charge",
+            "Mimi-Queue",
+            "Vive-Attaque",
+            "Cage-Éclair",
+            "Eclair",
+            "Fatal-Foudre",
+            "Psyko",
+            "Téléport",
+            "Mur Lumière",
+            "Protection",
+            "Mur de Fer"
+        ]
+    },
+    {
+        "number": "102",
+        "name": "Noeunoeuf",
+        "size": "0.4 m",
+        "weight": "2.5 kg",
+        "statistic": {
+            "hp": 60,
+            "attack": 40,
+            "defense": 80,
+            "special-attack": 60,
+            "special-defense": 45,
+            "speed": 40
+        },
+        "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/102.png",
+        "type": [
+            "Plante",
+            "Psy"
+        ],
+        "learnset": [
+            "Charge",
+            "Mimi-Queue",
+            "Vive-Attaque",
+            "Furie",
+            "Mimique",
+            "Tranch'Herbe",
+            "Lance-Soleil",
+            "Psyko",
+            "Téléport",
+            "Mur Lumière",
+            "Protection",
+            "Mur de Fer"
+        ]
+    },
+    {
+        "number": "103",
+        "name": "Noadkoko",
+        "size": "1.2 m",
+        "weight": "120.0 kg",
+        "statistic": {
+            "hp": 95,
+            "attack": 95,
+            "defense": 85,
+            "special-attack": 125,
+            "special-defense": 65,
+            "speed": 55
+        },
+        "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/103.png",
+        "type": [
+            "Plante",
+            "Psy"
+        ],
+        "learnset": [
+            "Charge",
+            "Mimi-Queue",
+            "Vive-Attaque",
+            "Furie",
+            "Mimique",
+            "Tranch'Herbe",
+            "Lance-Soleil",
+            "Psyko",
+            "Téléport",
+            "Mur Lumière",
+            "Protection",
+            "Mur de Fer"
+        ]
+    },
+    {
+        "number": "104",
+        "name": "Osselait",
+        "size": "0.4 m",
+        "weight": "6.5 kg",
+        "statistic": {
+            "hp": 50,
+            "attack": 50,
+            "defense": 95,
+            "special-attack": 40,
+            "special-defense": 50,
+            "speed": 35
+        },
+        "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/104.png",
+        "type": [
+            "Sol"
+        ],
+        "learnset": [
+            "Charge",
+            "Jet de Sable",
+            "Mimi-Queue",
+            "Furie",
+            "Roulade",
+            "Racines",
+            "Séisme",
+            "Roulade",
+            "Racines",
+            "Séisme",
+            "Roulade",
+            "Racines",
+            "Séisme",
+            "Explosion"
+        ]
+    },
+    {
+        "number": "105",
+        "name": "Ossatueur",
+        "size": "1.0 m",
+        "weight": "45.0 kg",
+        "statistic": {
+            "hp": 60,
+            "attack": 80,
+            "defense": 110,
+            "special-attack": 50,
+            "special-defense": 80,
+            "speed": 45
+        },
+        "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/105.png",
+        "type": [
+            "Sol"
+        ],
+        "learnset": [
+            "Charge",
+            "Jet de Sable",
+            "Mimi-Queue",
+            "Furie",
+            "Roulade",
+            "Racines",
+            "Séisme",
+            "Roulade",
+            "Racines",
+            "Séisme",
+            "Roulade",
+            "Racines",
+            "Séisme",
+            "Explosion"
+        ]
+    },
+    {
+        "number": "106",
+        "name": "Kicklee",
+        "size": "1.5 m",
+        "weight": "49.8 kg",
+        "statistic": {
+            "hp": 50,
+            "attack": 120,
+            "defense": 53,
+            "special-attack": 35,
+            "special-defense": 110,
+            "speed": 87
+        },
+        "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/106.png",
+        "type": [
+            "Combat"
+        ],
+        "learnset": [
+            "Charge",
+            "Mimi-Queue",
+            "Vive-Attaque",
+            "Morsure",
+            "Mimique",
+            "Poing-Karaté",
+            "Poing de Feu",
+            "Poing-Glace",
+            "Poing-Eclair",
+            "Poing-Boost",
+            "Poing-Météor",
+            "Poing Ombre",
+            "Poing-Glace",
+            "Poing-Eclair",
+            "Poing-Boost",
+            "Poing-Météor",
+            "Poing Ombre"
+        ]
+    },
+    {
+        "number": "107",
+        "name": "Tygnon",
+        "size": "1.4 m",
+        "weight": "50.2 kg",
+        "statistic": {
+            "hp": 50,
+            "attack": 105,
+            "defense": 79,
+            "special-attack": 35,
+            "special-defense": 110,
+            "speed": 76
+        },
+        "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/107.png",
+        "type": [
+            "Combat"
+        ],
+        "learnset": [
+            "Charge",
+            "Mimi-Queue",
+            "Vive-Attaque",
+            "Morsure",
+            "Mimique",
+            "Poing-Karaté",
+            "Poing de Feu",
+            "Poing-Glace",
+            "Poing-Eclair",
+            "Poing-Boost",
+            "Poing-Météor",
+            "Poing Ombre"
+        ]
+    },
+    {
+        "number": "108",
+        "name": "Excelangue",
+        "size": "1.2 m",
+        "weight": "65.5 kg",
+        "statistic": {
+            "hp": 90,
+            "attack": 55,
+            "defense": 75,
+            "special-attack": 60,
+            "special-defense": 75,
+            "speed": 30
+        },
+        "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/108.png",
+        "type": [
+            "Normal"
+        ],
+        "learnset": [
+            "Charge",
+            "Mimi-Queue",
+            "Vive-Attaque",
+            "Morsure",
+            "Mimique",
+            "Laser Glace",
+            "Blizzard",
+            "Cage-Éclair",
+            "Eclair",
+            "Fatal-Foudre",
+            "Psyko",
+            "Téléport",
+            "Hypnose",
+            "Cauchemar",
+            "Léchouille",
+            "Léchouille",
+            "Léchouille"
+        ]
+    },
+    {
+        "number": "109",
+        "name": "Smogo",
+        "size": "0.6 m",
+        "weight": "1.0 kg",
+        "statistic": {
+            "hp": 40,
+            "attack": 65,
+            "defense": 95,
+            "special-attack": 60,
+            "special-defense": 45,
+            "speed": 35
+        },
+        "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/109.png",
+        "type": [
+            "Poison"
+        ],
+        "learnset": [
+            "Charge",
+            "Mimi-Queue",
+            "Vive-Attaque",
+            "Toxik",
+            "Bomb-Beurk",
+            "Gaz Toxik",
+            "Poudre Dodo",
+            "Poudre Toxik",
+            "Poudre Dodo",
+            "Poudre Toxik",
+            "Acidarmure",
+            "Acide",
+            "Bomb-Beurk",
+            "Gaz Toxik"
+        ]
+    },
+    {
+        "number": "110",
+        "name": "Smogogo",
+        "size": "1.2 m",
+        "weight": "9.5 kg",
+        "statistic": {
+            "hp": 65,
+            "attack": 90,
+            "defense": 120,
+            "special-attack": 85,
+            "special-defense": 70,
+            "speed": 60
+        },
+        "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/110.png",
+        "type": [
+            "Poison"
+        ],
+        "learnset": [
+            "Charge",
+            "Mimi-Queue",
+            "Vive-Attaque",
+            "Toxik",
+            "Bomb-Beurk",
+            "Gaz Toxik",
+            "Poudre Dodo",
+            "Poudre Toxik",
+            "Poudre Dodo",
+            "Poudre Toxik",
+            "Acidarmure",
+            "Acide",
+            "Bomb-Beurk",
+            "Gaz Toxik"
+        ]
+    },
+    {
+        "number": "111",
+        "name": "Rhinocorne",
+        "size": "1.0 m",
+        "weight": "115.0 kg",
+        "statistic": {
+            "hp": 80,
+            "attack": 85,
+            "defense": 95,
+            "special-attack": 30,
+            "special-defense": 30,
+            "speed": 25
+        },
+        "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/111.png",
+        "type": [
+            "Sol",
+            "Roche"
+        ],
+        "learnset": [
+            "Charge",
+            "Jet de Sable",
+            "Mimi-Queue",
+            "Furie",
+            "Roulade",
+            "Racines",
+            "Séisme",
+            "Roulade",
+            "Racines",
+            "Séisme",
+            "Roulade",
+            "Racines",
+            "Séisme",
+            "Explosion"
+        ]
+    },
+    {
+        "number": "112",
+        "name": "Rhinoféros",
+        "size": "1.9 m",
+        "weight": "120.0 kg",
+        "statistic": {
+            "hp": 105,
+            "attack": 130,
+            "defense": 120,
+            "special-attack": 45,
+            "special-defense": 45,
+            "speed": 40
+        },
+        "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/112.png",
+        "type": [
+            "Sol",
+            "Roche"
+        ],
+        "learnset": [
+            "Charge",
+            "Jet de Sable",
+            "Mimi-Queue",
+            "Furie",
+            "Roulade",
+            "Racines",
+            "Séisme",
+            "Roulade",
+            "Racines",
+            "Séisme",
+            "Roulade",
+            "Racines",
+            "Séisme",
+            "Explosion"
+        ]
+    },
+    {
+        "number": "113",
+        "name": "Leveinard",
+        "size": "1.1 m",
+        "weight": "34.6 kg",
+        "statistic": {
+            "hp": 250,
+            "attack": 5,
+            "defense": 5,
+            "special-attack": 35,
+            "special-defense": 105,
+            "speed": 50
+        },
+        "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/113.png",
+        "type": [
+            "Normal"
+        ],
+        "learnset": [
+            "Charge",
+            "Mimi-Queue",
+            "Vive-Attaque",
+            "Bulles d'O",
+            "Hydrocanon",
+            "Surf",
+            "Cage-Éclair",
+            "Eclair",
+            "Fatal-Foudre",
+            "Psyko",
+            "Téléport",
+            "Hypnose",
+            "Cauchemar",
+            "Léchouille"
+        ]
+    },
+    {
+        "number": "114",
+        "name": "Saquedeneu",
+        "size": "1.2 m",
+        "weight": "35.0 kg",
+        "statistic": {
+            "hp": 65,
+            "attack": 55,
+            "defense": 115,
+            "special-attack": 100,
+            "special-defense": 40,
+            "speed": 60
+        },
+        "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/114.png",
+        "type": [
+            "Plante"
+        ],
+        "learnset": [
+            "Charge",
+            "Mimi-Queue",
+            "Vive-Attaque",
+            "Furie",
+            "Mimique",
+            "Tranch'Herbe",
+            "Lance-Soleil",
+            "Psyko",
+            "Téléport",
+            "Mur Lumière",
+            "Protection",
+            "Mur de Fer",
+            "Léchouille",
+            "Léchouille",
+            "Léchouille"
+        ]
+    },
+    {
+        "number": "115",
+        "name": "Kangourex",
+        "size": "2.2 m",
+        "weight": "80.0 kg",
+        "statistic": {
+            "hp": 105,
+            "attack": 95,
+            "defense": 80,
+            "special-attack": 40,
+            "special-defense": 80,
+            "speed": 90
+        },
+        "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/115.png",
+        "type": [
+            "Normal"
+        ],
+        "learnset": [
+            "Charge",
+            "Mimi-Queue",
+            "Vive-Attaque",
+            "Morsure",
+            "Mimique",
+            "Laser Glace",
+            "Blizzard",
+            "Cage-Éclair",
+            "Eclair",
+            "Fatal-Foudre",
+            "Psyko",
+            "Téléport",
+            "Hypnose",
+            "Cauchemar",
+            "Léchouille",
+            "Léchouille",
+            "Léchouille"
+        ]
+    },
+    {
+        "number": "116",
+        "name": "Hypotrempe",
+        "size": "0.4 m",
+        "weight": "8.0 kg",
+        "statistic": {
+            "hp": 30,
+            "attack": 40,
+            "defense": 70,
+            "special-attack": 70,
+            "special-defense": 25,
+            "speed": 60
+        },
+        "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/116.png",
+        "type": [
+            "Eau"
+        ],
+        "learnset": [
+            "Charge",
+            "Mimi-Queue",
+            "Vive-Attaque",
+            "Bulles d'O",
+            "Hydrocanon",
+            "Surf",
+            "Cage-Éclair",
+            "Eclair",
+            "Fatal-Foudre",
+            "Psyko",
+            "Téléport",
+            "Hypnose",
+            "Cauchemar",
+            "Léchouille"
+        ]
+    },
+    {
+        "number": "117",
+        "name": "Hypocéan",
+        "size": "1.2 m",
+        "weight": "25.0 kg",
+        "statistic": {
+            "hp": 55,
+            "attack": 65,
+            "defense": 95,
+            "special-attack": 95,
+            "special-defense": 45,
+            "speed": 85
+        },
+        "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/117.png",
+        "type": [
+            "Eau"
+        ],
+        "learnset": [
+            "Charge",
+            "Mimi-Queue",
+            "Vive-Attaque",
+            "Bulles d'O",
+            "Hydrocanon",
+            "Surf",
+            "Cage-Éclair",
+            "Eclair",
+            "Fatal-Foudre",
+            "Psyko",
+            "Téléport",
+            "Hypnose",
+            "Cauchemar",
+            "Léchouille"
+        ]
+    },
+    {
+        "number": "118",
+        "name": "Poissirène",
+        "size": "0.6 m",
+        "weight": "15.0 kg",
+        "statistic": {
+            "hp": 45,
+            "attack": 67,
+            "defense": 60,
+            "special-attack": 35,
+            "special-defense": 50,
+            "speed": 63
+        },
+        "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/118.png",
+        "type": [
+            "Eau"
+        ],
+        "learnset": [
+            "Charge",
+            "Mimi-Queue",
+            "Vive-Attaque",
+            "Bulles d'O",
+            "Hydrocanon",
+            "Surf",
+            "Cage-Éclair",
+            "Eclair",
+            "Fatal-Foudre",
+            "Psyko",
+            "Téléport"
+        ]
+    },
+    {
+        "number": "119",
+        "name": "Poissoroy",
+        "size": "1.3 m",
+        "weight": "39.0 kg",
+        "statistic": {
+            "hp": 80,
+            "attack": 92,
+            "defense": 65,
+            "special-attack": 65,
+            "special-defense": 80,
+            "speed": 68
+        },
+        "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/119.png",
+        "type": [
+            "Eau"
+        ],
+        "learnset": [
+            "Charge",
+            "Mimi-Queue",
+            "Vive-Attaque",
+            "Bulles d'O",
+            "Hydrocanon",
+            "Surf",
+            "Cage-Éclair",
+            "Eclair",
+            "Fatal-Foudre",
+            "Psyko",
+            "Téléport"
+        ]
+    },
+    {
+        "number": "120",
+        "name": "Stari",
+        "size": "0.8 m",
+        "weight": "34.5 kg",
+        "statistic": {
+            "hp": 30,
+            "attack": 45,
+            "defense": 55,
+            "special-attack": 70,
+            "special-defense": 55,
+            "speed": 85
+        },
+        "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/120.png",
+        "type": [
+            "Eau"
+        ],
+        "learnset": [
+            "Charge",
+            "Mimi-Queue",
+            "Vive-Attaque",
+            "Bulles d'O",
+            "Hydrocanon",
+            "Surf",
+            "Cage-Éclair",
+            "Eclair",
+            "Fatal-Foudre"
+        ]
+    },
+    {
+        "number": "121",
+        "name": "Staross",
+        "size": "1.1 m",
+        "weight": "80.0 kg",
+        "statistic": {
+            "hp": 60,
+            "attack": 75,
+            "defense": 85,
+            "special-attack": 100,
+            "special-defense": 85,
+            "speed": 115
+        },
+        "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/121.png",
+        "type": [
+            "Eau",
+            "Psy"
+        ],
+        "learnset": [
+            "Charge",
+            "Mimi-Queue",
+            "Vive-Attaque",
+            "Bulles d'O",
+            "Hydrocanon",
+            "Surf",
+            "Cage-Éclair",
+            "Eclair",
+            "Fatal-Foudre"
+        ]
+    },
+    {
+        "number": "122",
+        "name": "M. Mime",
+        "size": "1.3 m",
+        "weight": "54.5 kg",
+        "statistic": {
+            "hp": 40,
+            "attack": 45,
+            "defense": 65,
+            "special-attack": 100,
+            "special-defense": 120,
+            "speed": 90
+        },
+        "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/122.png",
+        "type": [
+            "Psy",
+            "Fee"
+        ],
+        "learnset": [
+            "Charge",
+            "Mimi-Queue",
+            "Vive-Attaque",
+            "Psyko",
+            "Téléport",
+            "Mur Lumière",
+            "Protection",
+            "Mur de Fer",
+            "Psyko",
+            "Téléport",
+            "Mur Lumière",
+            "Protection",
+            "Mur de Fer"
+        ]
+    },
+    {
+        "number": "123",
+        "name": "Insécateur",
+        "size": "1.5 m",
+        "weight": "56.0 kg",
+        "statistic": {
+            "hp": 70,
+            "attack": 110,
+            "defense": 80,
+            "special-attack": 55,
+            "special-defense": 80,
+            "speed": 105
+        },
+        "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/123.png",
+        "type": [
+            "Insecte",
+            "Vol"
+        ],
+        "learnset": [
+            "Charge",
+            "Mimi-Queue",
+            "Vive-Attaque",
+            "Furie",
+            "Mimique",
+            "Tranch'Herbe",
+            "Lance-Soleil",
+            "Psyko",
+            "Téléport",
+            "Mur Lumière",
+            "Protection",
+            "Mur de Fer",
+            "Lame d'Air",
+            "Lame d'Air",
+            "Lame d'Air"
+        ]
+    },
+    {
+        "number": "124",
+        "name": "Lippoutou",
+        "size": "1.4 m",
+        "weight": "40.6 kg",
+        "statistic": {
+            "hp": 65,
+            "attack": 50,
+            "defense": 35,
+            "special-attack": 115,
+            "special-defense": 95,
+            "speed": 95
+        },
+        "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/124.png",
+        "type": [
+            "Glace",
+            "Psy"
+        ],
+        "learnset": [
+            "Charge",
+            "Mimi-Queue",
+            "Vive-Attaque",
+            "Psyko",
+            "Téléport",
+            "Mur Lumière",
+            "Protection",
+            "Mur de Fer",
+            "Psyko",
+            "Téléport",
+            "Mur Lumière",
+            "Protection",
+            "Mur de Fer"
+        ]
+    },
+    {
+        "number": "125",
+        "name": "Élektek",
+        "size": "1.1 m",
+        "weight": "30.0 kg",
+        "statistic": {
+            "hp": 65,
+            "attack": 83,
+            "defense": 57,
+            "special-attack": 95,
+            "special-defense": 85,
+            "speed": 105
+        },
+        "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/125.png",
+        "type": [
+            "Électrik"
+        ],
+        "learnset": [
+            "Charge",
+            "Mimi-Queue",
+            "Vive-Attaque",
+            "Cage-Éclair",
+            "Eclair",
+            "Fatal-Foudre",
+            "Psyko",
+            "Téléport",
+            "Mur Lumière",
+            "Protection",
+            "Mur de Fer",
+            "Cage-Éclair",
+            "Eclair",
+            "Fatal-Foudre"
+        ]
+    },
+    {
+        "number": "126",
+        "name": "Magmar",
+        "size": "1.3 m",
+        "weight": "44.5 kg",
+        "statistic": {
+            "hp": 65,
+            "attack": 95,
+            "defense": 57,
+            "special-attack": 100,
+            "special-defense": 85,
+            "speed": 93
+        },
+        "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/126.png",
+        "type": [
+            "Feu"
+        ],
+        "learnset": [
+            "Charge",
+            "Mimi-Queue",
+            "Vive-Attaque",
+            "Poing de Feu",
+            "Poing-Glace",
+            "Poing-Eclair",
+            "Poing-Boost",
+            "Poing-Météor",
+            "Poing Ombre",
+            "Poing de Feu",
+            "Poing-Glace",
+            "Poing-Eclair",
+            "Poing-Boost",
+            "Poing-Météor",
+            "Poing Ombre"
+        ]
+    },
+    {
+        "number": "127",
+        "name": "Scarabrute",
+        "size": "1.5 m",
+        "weight": "55.0 kg",
+        "statistic": {
+            "hp": 65,
+            "attack": 125,
+            "defense": 100,
+            "special-attack": 55,
+            "special-defense": 70,
+            "speed": 85
+        },
+        "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/127.png",
+        "type": [
+            "Insecte"
+        ],
+        "learnset": [
+            "Charge",
+            "Mimi-Queue",
+            "Vive-Attaque",
+            "Furie",
+            "Mimique",
+            "Tranch'Herbe",
+            "Lance-Soleil",
+            "Psyko",
+            "Téléport",
+            "Mur Lumière",
+            "Protection",
+            "Mur de Fer",
+            "Lame d'Air",
+            "Lame d'Air",
+            "Lame d'Air"
+        ]
+    },
+    {
+        "number": "128",
+        "name": "Tauros",
+        "size": "1.4 m",
+        "weight": "88.4 kg",
+        "statistic": {
+            "hp": 75,
+            "attack": 100,
+            "defense": 95,
+            "special-attack": 40,
+            "special-defense": 70,
+            "speed": 110
+        },
+        "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/128.png",
+        "type": [
+            "Normal"
+        ],
+        "learnset": [
+            "Charge",
+            "Mimi-Queue",
+            "Vive-Attaque",
+            "Morsure",
+            "Mimique",
+            "Laser Glace",
+            "Blizzard",
+            "Cage-Éclair",
+            "Eclair",
+            "Fatal-Foudre",
+            "Psyko",
+            "Téléport"
+        ]
+    },
+    {
+        "number": "129",
+        "name": "Magicarpe",
+        "size": "0.9 m",
+        "weight": "10.0 kg",
+        "statistic": {
+            "hp": 20,
+            "attack": 10,
+            "defense": 55,
+            "special-attack": 15,
+            "special-defense": 20,
+            "speed": 80
+        },
+        "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/129.png",
+        "type": [
+            "Eau"
+        ],
+        "learnset": [
+            "Charge",
+            "Mimi-Queue",
+            "Vive-Attaque"
+        ]
+    },
+    {
+        "number": "130",
+        "name": "Léviator",
+        "size": "6.5 m",
+        "weight": "235.0 kg",
+        "statistic": {
+            "hp": 95,
+            "attack": 125,
+            "defense": 79,
+            "special-attack": 60,
+            "special-defense": 100,
+            "speed": 81
+        },
+        "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/130.png",
+        "type": [
+            "Eau",
+            "Vol"
+        ],
+        "learnset": [
+            "Charge",
+            "Mimi-Queue",
+            "Vive-Attaque",
+            "Bulles d'O",
+            "Hydrocanon",
+            "Surf",
+            "Cage-Éclair",
+            "Eclair",
+            "Fatal-Foudre"
+        ]
+    },
+    {
+        "number": "131",
+        "name": "Lokhlass",
+        "size": "2.5 m",
+        "weight": "220.0 kg",
+        "statistic": {
+            "hp": 130,
+            "attack": 85,
+            "defense": 80,
+            "special-attack": 85,
+            "special-defense": 95,
+            "speed": 60
+        },
+        "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/131.png",
+        "type": [
+            "Eau",
+            "Glace"
+        ],
+        "learnset": [
+            "Charge",
+            "Mimi-Queue",
+            "Vive-Attaque",
+            "Bulles d'O",
+            "Hydrocanon",
+            "Surf",
+            "Cage-Éclair",
+            "Eclair",
+            "Fatal-Foudre",
+            "Laser Glace",
+            "Blizzard",
+            "Psyko",
+            "Téléport",
+            "Hypnose",
+            "Cauchemar"
+        ]
+    },
+    {
+        "number": "132",
+        "name": "Métamorph",
+        "size": "0.3 m",
+        "weight": "4.0 kg",
+        "statistic": {
+            "hp": 48,
+            "attack": 48,
+            "defense": 48,
+            "special-attack": 48,
+            "special-defense": 48,
+            "speed": 48
+        },
+        "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/132.png",
+        "type": [
+            "Normal"
+        ],
+        "learnset": [
+            "Charge",
+            "Mimi-Queue",
+            "Vive-Attaque"
+        ]
+    },
+    {
+        "number": "133",
+        "name": "Évoli",
+        "size": "0.3 m",
+        "weight": "6.5 kg",
+        "statistic": {
+            "hp": 55,
+            "attack": 55,
+            "defense": 50,
+            "special-attack": 45,
+            "special-defense": 65,
+            "speed": 55
+        },
+        "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/133.png",
+        "type": [
+            "Normal"
+        ],
+        "learnset": [
+            "Charge",
+            "Mimi-Queue",
+            "Vive-Attaque"
+        ]
+    },
+    {
+        "number": "134",
+        "name": "Aquali",
+        "size": "1.0 m",
+        "weight": "29.0 kg",
+        "statistic": {
+            "hp": 130,
+            "attack": 65,
+            "defense": 60,
+            "special-attack": 110,
+            "special-defense": 95,
+            "speed": 65
+        },
+        "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/134.png",
+        "type": [
+            "Eau"
+        ],
+        "learnset": [
+            "Charge",
+            "Mimi-Queue",
+            "Vive-Attaque",
+            "Bulles d'O",
+            "Hydrocanon",
+            "Surf"
+        ]
+    },
+    {
+        "number": "135",
+        "name": "Voltali",
+        "size": "0.8 m",
+        "weight": "24.5 kg",
+        "statistic": {
+            "hp": 65,
+            "attack": 65,
+            "defense": 60,
+            "special-attack": 110,
+            "special-defense": 95,
+            "speed": 130
+        },
+        "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/135.png",
+        "type": [
+            "Électrik"
+        ],
+        "learnset": [
+            "Charge",
+            "Mimi-Queue",
+            "Vive-Attaque",
+            "Cage-Éclair",
+            "Eclair",
+            "Fatal-Foudre"
+        ]
+    },
+    {
+        "number": "136",
+        "name": "Pyroli",
+        "size": "0.9 m",
+        "weight": "25.0 kg",
+        "statistic": {
+            "hp": 65,
+            "attack": 130,
+            "defense": 60,
+            "special-attack": 95,
+            "special-defense": 110,
+            "speed": 65
+        },
+        "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/136.png",
+        "type": [
+            "Feu"
+        ],
+        "learnset": [
+            "Charge",
+            "Mimi-Queue",
+            "Vive-Attaque",
+            "Poing de Feu",
+            "Poing-Glace",
+            "Poing-Eclair",
+            "Poing-Boost",
+            "Poing-Météor",
+            "Poing Ombre"
+        ]
+    },
+    {
+        "number": "137",
+        "name": "Porygon",
+        "size": "0.8 m",
+        "weight": "36.5 kg",
+        "statistic": {
+            "hp": 65,
+            "attack": 60,
+            "defense": 70,
+            "special-attack": 85,
+            "special-defense": 75,
+            "speed": 40
+        },
+        "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/137.png",
+        "type": [
+            "Normal"
+        ],
+        "learnset": [
+            "Charge",
+            "Mimi-Queue",
+            "Vive-Attaque",
+            "Psyko",
+            "Téléport",
+            "Mur Lumière",
+            "Protection",
+            "Mur de Fer",
+            "Psyko",
+            "Téléport",
+            "Mur Lumière",
+            "Protection",
+            "Mur de Fer"
+        ]
+    },
+    {
+        "number": "138",
+        "name": "Amonita",
+        "size": "0.4 m",
+        "weight": "7.5 kg",
+        "statistic": {
+            "hp": 35,
+            "attack": 40,
+            "defense": 100,
+            "special-attack": 90,
+            "special-defense": 55,
+            "speed": 35
+        },
+        "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/138.png",
+        "type": [
+            "Roche",
+            "Eau"
+        ],
+        "learnset": [
+            "Charge",
+            "Jet de Sable",
+            "Mimi-Queue",
+            "Furie",
+            "Roulade",
+            "Racines",
+            "Séisme",
+            "Roulade",
+            "Racines",
+            "Séisme",
+            "Roulade",
+            "Racines",
+            "Séisme",
+            "Explosion",
+            "Laser Glace",
+            "Blizzard",
+            "Psyko",
+            "Téléport",
+            "Hypnose",
+            "Cauchemar"
+        ]
+    },
+    {
+        "number": "139",
+        "name": "Amonistar",
+        "size": "1.0 m",
+        "weight": "35.0 kg",
+        "statistic": {
+            "hp": 70,
+            "attack": 60,
+            "defense": 125,
+            "special-attack": 115,
+            "special-defense": 70,
+            "speed": 55
+        },
+        "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/139.png",
+        "type": [
+            "Roche",
+            "Eau"
+        ],
+        "learnset": [
+            "Charge",
+            "Jet de Sable",
+            "Mimi-Queue",
+            "Furie",
+            "Roulade",
+            "Racines",
+            "Séisme",
+            "Roulade",
+            "Racines",
+            "Séisme",
+            "Roulade",
+            "Racines",
+            "Séisme",
+            "Explosion",
+            "Laser Glace",
+            "Blizzard",
+            "Psyko",
+            "Téléport",
+            "Hypnose",
+            "Cauchemar"
+        ]
+    },
+    {
+        "number": "140",
+        "name": "Kabuto",
+        "size": "0.5 m",
+        "weight": "11.5 kg",
+        "statistic": {
+            "hp": 30,
+            "attack": 80,
+            "defense": 90,
+            "special-attack": 55,
+            "special-defense": 45,
+            "speed": 55
+        },
+        "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/140.png",
+        "type": [
+            "Roche",
+            "Eau"
+        ],
+        "learnset": [
+            "Charge",
+            "Jet de Sable",
+            "Mimi-Queue",
+            "Furie",
+            "Roulade",
+            "Racines",
+            "Séisme",
+            "Roulade",
+            "Racines",
+            "Séisme",
+            "Roulade",
+            "Racines",
+            "Séisme",
+            "Explosion",
+            "Laser Glace",
+            "Blizzard",
+            "Psyko",
+            "Téléport",
+            "Hypnose",
+            "Cauchemar"
+        ]
+    },
+    {
+        "number": "141",
+        "name": "Kabutops",
+        "size": "1.3 m",
+        "weight": "40.5 kg",
+        "statistic": {
+            "hp": 60,
+            "attack": 115,
+            "defense": 105,
+            "special-attack": 65,
+            "special-defense": 70,
+            "speed": 80
+        },
+        "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/141.png",
+        "type": [
+            "Roche",
+            "Eau"
+        ],
+        "learnset": [
+            "Charge",
+            "Jet de Sable",
+            "Mimi-Queue",
+            "Furie",
+            "Roulade",
+            "Racines",
+            "Séisme",
+            "Roulade",
+            "Racines",
+            "Séisme",
+            "Roulade",
+            "Racines",
+            "Séisme",
+            "Explosion",
+            "Laser Glace",
+            "Blizzard",
+            "Psyko",
+            "Téléport",
+            "Hypnose",
+            "Cauchemar"
+        ]
+    },
+    {
+        "number": "142",
+        "name": "Ptéra",
+        "size": "1.8 m",
+        "weight": "59.0 kg",
+        "statistic": {
+            "hp": 80,
+            "attack": 105,
+            "defense": 65,
+            "special-attack": 60,
+            "special-defense": 75,
+            "speed": 130
+        },
+        "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/142.png",
+        "type": [
+            "Roche",
+            "Vol"
+        ],
+        "learnset": [
+            "Charge",
+            "Jet de Sable",
+            "Mimi-Queue",
+            "Furie",
+            "Roulade",
+            "Racines",
+            "Séisme",
+            "Roulade",
+            "Racines",
+            "Séisme",
+            "Roulade",
+            "Racines",
+            "Séisme",
+            "Explosion",
+            "Laser Glace",
+            "Blizzard",
+            "Psyko",
+            "Téléport",
+            "Hypnose",
+            "Cauchemar"
+        ]
+    },
+    {
+        "number": "143",
+        "name": "Ronflex",
+        "size": "2.1 m",
+        "weight": "460.0 kg",
+        "statistic": {
+            "hp": 160,
+            "attack": 110,
+            "defense": 65,
+            "special-attack": 65,
+            "special-defense": 110,
+            "speed": 30
+        },
+        "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/143.png",
+        "type": [
+            "Normal"
+        ],
+        "learnset": [
+            "Charge",
+            "Mimi-Queue",
+            "Vive-Attaque",
+            "Morsure",
+            "Mimique",
+            "Laser Glace",
+            "Blizzard",
+            "Cage-Éclair",
+            "Eclair",
+            "Fatal-Foudre",
+            "Psyko",
+            "Téléport"
+        ]
+    },
+    {
+        "number": "144",
+        "name": "Artikodin",
+        "size": "1.7 m",
+        "weight": "55.4 kg",
+        "statistic": {
+            "hp": 90,
+            "attack": 85,
+            "defense": 100,
+            "special-attack": 95,
+            "special-defense": 125,
+            "speed": 85
+        },
+        "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/144.png",
+        "type": [
+            "Glace",
+            "Vol"
+        ],
+        "learnset": [
+            "Charge",
+            "Mimi-Queue",
+            "Vive-Attaque",
+            "Laser Glace",
+            "Blizzard",
+            "Psyko",
+            "Téléport",
+            "Hypnose",
+            "Cauchemar"
+        ]
+    },
+    {
+        "number": "145",
+        "name": "Électhor",
+        "size": "1.6 m",
+        "weight": "52.6 kg",
+        "statistic": {
+            "hp": 90,
+            "attack": 90,
+            "defense": 85,
+            "special-attack": 125,
+            "special-defense": 90,
+            "speed": 100
+        },
+        "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/145.png",
+        "type": [
+            "Électrik",
+            "Vol"
+        ],
+        "learnset": [
+            "Charge",
+            "Mimi-Queue",
+            "Vive-Attaque",
+            "Cage-Éclair",
+            "Eclair",
+            "Fatal-Foudre",
+            "Psyko",
+            "Téléport"
+        ]
+    },
+    {
+        "number": "146",
+        "name": "Sulfura",
+        "size": "2.0 m",
+        "weight": "60.0 kg",
+        "statistic": {
+            "hp": 90,
+            "attack": 100,
+            "defense": 90,
+            "special-attack": 125,
+            "special-defense": 85,
+            "speed": 90
+        },
+        "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/146.png",
+        "type": [
+            "Feu",
+            "Vol"
+        ],
+        "learnset": [
+            "Charge",
+            "Mimi-Queue",
+            "Vive-Attaque",
+            "Poing de Feu",
+            "Poing-Glace",
+            "Poing-Eclair",
+            "Poing-Boost",
+            "Poing-Météor",
+            "Poing Ombre"
+        ]
+    },
+    {
+        "number": "147",
+        "name": "Minidraco",
+        "size": "1.8 m",
+        "weight": "3.3 kg",
+        "statistic": {
+            "hp": 41,
+            "attack": 64,
+            "defense": 45,
+            "special-attack": 50,
+            "special-defense": 50,
+            "speed": 50
+        },
+        "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/147.png",
+        "type": [
+            "Dragon"
+        ],
+        "learnset": [
+            "Charge",
+            "Mimi-Queue",
+            "Vive-Attaque"
+        ]
+    },
+    {
+        "number": "148",
+        "name": "Draco",
+        "size": "4.0 m",
+        "weight": "16.5 kg",
+        "statistic": {
+            "hp": 61,
+            "attack": 84,
+            "defense": 65,
+            "special-attack": 70,
+            "special-defense": 70,
+            "speed": 70
+        },
+        "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/148.png",
+        "type": [
+            "Dragon"
+        ],
+        "learnset": [
+            "Charge",
+            "Mimi-Queue",
+            "Vive-Attaque"
+        ]
+    },
+    {
+        "number": "149",
+        "name": "Dracolosse",
+        "size": "2.2 m",
+        "weight": "210.0 kg",
+        "statistic": {
+            "hp": 91,
+            "attack": 134,
+            "defense": 95,
+            "special-attack": 100,
+            "special-defense": 100,
+            "speed": 80
+        },
+        "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/149.png",
+        "type": [
+            "Dragon",
+            "Vol"
+        ],
+        "learnset": [
+            "Charge",
+            "Mimi-Queue",
+            "Vive-Attaque",
+            "Laser Glace",
+            "Blizzard",
+            "Psyko",
+            "Téléport",
+            "Hypnose",
+            "Cauchemar"
+        ]
+    },
+    {
+        "number": "150",
+        "name": "Mewtwo",
+        "size": "2.0 m",
+        "weight": "122.0 kg",
+        "statistic": {
+            "hp": 106,
+            "attack": 110,
+            "defense": 90,
+            "special-attack": 154,
+            "special-defense": 90,
+            "speed": 130
+        },
+        "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/150.png",
+        "type": [
+            "Psy"
+        ],
+        "learnset": [
+            "Charge",
+            "Mimi-Queue",
+            "Vive-Attaque",
+            "Psyko",
+            "Téléport",
+            "Mur Lumière",
+            "Protection",
+            "Mur de Fer",
+            "Psyko",
+            "Téléport",
+            "Mur Lumière",
+            "Protection",
+            "Mur de Fer"
+        ]
+    },
+    {
+        "number": "151",
+        "name": "Mew",
+        "size": "0.4 m",
+        "weight": "4.0 kg",
+        "statistic": {
+            "hp": 100,
+            "attack": 100,
+            "defense": 100,
+            "special-attack": 100,
+            "special-defense": 100,
+            "speed": 100
+        },
+        "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/151.png",
+        "type": [
+            "Psy"
+        ],
+        "learnset": [
+            "Charge",
+            "Mimi-Queue",
+            "Vive-Attaque",
+            "Psyko",
+            "Téléport",
+            "Mur Lumière",
+            "Protection",
+            "Mur de Fer",
+            "Psyko",
+            "Téléport",
+            "Mur Lumière",
+            "Protection",
+            "Mur de Fer"
+        ]
+    }
+]
