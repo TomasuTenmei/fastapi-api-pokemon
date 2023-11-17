@@ -2,12 +2,6 @@ import uuid
 from typing import Optional
 from pydantic import BaseModel, Field
 
-"""
-╔════════════════════╗
-║ Collection Pokemon ║
-╚════════════════════╝
-"""
-
 class Statistic(BaseModel):
     
     hp: int = Field(..., alias="HP")
@@ -19,7 +13,7 @@ class Statistic(BaseModel):
 
 class Pokemon(BaseModel):
     
-    _id: str = Field(default_factory=uuid.uuid4, alias="_id")
+    id: str = Field(default_factory=uuid.uuid4, alias="id")
     number: int = Field(...)
     name: str = Field(...)
     size: str = Field(...)
@@ -30,10 +24,10 @@ class Pokemon(BaseModel):
     
     class Config:
         
-        allow_population_by_field_name = True
-        schema_extra = {
+        populate_by_name = True
+        json_schema_extra = {
             "example": {
-                "_id": "653a54a936887f3385e5b086",
+                "id": "653a54a936887f3385e5b086",
                 "id": 1,
                 "name": "Bulbizarre",
                 "size": "0.7 m",
@@ -82,7 +76,7 @@ class PokemonUpdate(BaseModel):
     
     class Config:
         
-        schema_extra = {
+        json_schema_extra = {
             "example": {
                 "id": 1,
                 "name": "Bulbizarre",
@@ -120,90 +114,9 @@ class PokemonUpdate(BaseModel):
             }
         }
         
-        
-"""   
-╔═════════════════╗
-║ Collection Type ║
-╚═════════════════╝
-"""
-
-class Types(BaseModel):
-    
-    _id: str = Field(default_factory=uuid.uuid4, alias="_id")
-    name: str = Field(...)
-
-    class Config:
-        
-        allow_population_by_field_name = True
-        schema_extra = {
-            "example": {
-                "_id": "653a556336887f3385e5b998",
-                "name": "Normal"
-            }
-        }
-
-class TypesUpdate(BaseModel):
-    
-    name : str
-    
-    class Config:
-        
-        schema_extra = {
-            "example": {
-                "name": "Normal"
-            }
-        }
-        
-
-"""   
-╔═════════════════════╗
-║ Collection learnset ║
-╚═════════════════════╝
-"""
-
-class Learnset(BaseModel):
-    
-    _id: str = Field(default_factory=uuid.uuid4, alias="_id")
-    name: str = Field(...)
-    description: str = Field(...)
-    power: int = Field(...)
-    precision: int = Field(...)
-    pp: int = Field(...)
-    type: str = Field(...)
-
-    class Config:
-        
-        allow_population_by_field_name = True
-        schema_extra = {
-            "example": {
-                "_id": "653a554236887f3385e5b733",
-                "name": "Abîme",
-                "description": "Peut mettre K.O. en un coup. Sans effet sur les Pokémon Vol.",
-                "power": 0,
-                "precision": 30,
-                "pp": 5,
-                "type": "Normal"
-            }
-        }
-
-class LearnsetUpdate(BaseModel):
-    
-    name: str
-    description: Optional[str]
-    power: Optional[int]
-    precision: Optional[int]
-    pp: Optional[int]
-    type: Optional[str]
-    
-    class Config:
-        
-        schema_extra = {
-            "example": {
-                "name": "Abîme",
-                "description": "Peut mettre K.O. en un coup. Sans effet sur les Pokémon Vol.",
-                "power": 0,
-                "precision": 30,
-                "pp": 5,
-                "type": "Normal"
-            }
-        }
+def ResponseModel(data, message):
+    return {
+        "data": [data],
+        "code": 200,
+        "message": message
+    }
